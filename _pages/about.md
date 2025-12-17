@@ -177,3 +177,52 @@ Pattern Recognition (**PR**), 2024.
 - *2025.10* ICT National Scholarships (Top 5%)
 - Conference Reviewers: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, AAAI
 - Journal Reviewers: IJCV, TIP, TMM, TNNLS, TCSVT, PR
+
+<!-- <div style="height:180px;">
+  <div style="
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;">
+  <div style="transform:scale(0.5); transform-origin:center center;">
+    <script type="text/javascript" id="clustrmaps"
+      src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
+</div> -->
+
+
+<!-- <div style="
+  width:200px;
+  height:150px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  overflow:hidden;
+">
+<div style="transform:scale(0.6); transform-origin:center center;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a"></script>
+</div>
+</div> -->
+
+<!-- <div style="text-align:center;">
+  <div style="display:inline-block; transform:scale(0.5); transform-origin:center center;">
+    <script type="text/javascript" id="clustrmaps"
+      src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a">
+    </script>
+  </div>
+</div> -->
+
+<hr>
+<div>
+<center>
+  <b>Site Analytics</b> (since Oct. 2025)<br>
+  <script type="text/javascript" id="clustrmaps"
+    src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&co=2c3e50">
+  </script>
+</center>
+</div>
+
+<div style="height:20px;">
+</div>
