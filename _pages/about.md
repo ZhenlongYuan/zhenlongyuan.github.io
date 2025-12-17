@@ -185,8 +185,7 @@ Pattern Recognition (**PR**), 2024.
   justify-content:center;
   align-items:center;">
   <div style="transform:scale(0.5); transform-origin:center center;">
-    <script type="text/javascript" id="clustrmaps"
-      src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8&cl=ffffff&w=a">
     </script>
   </div>
 </div>
@@ -202,14 +201,14 @@ Pattern Recognition (**PR**), 2024.
   overflow:hidden;
 ">
 <div style="transform:scale(0.6); transform-origin:center center;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8&cl=ffffff&w=a">
+</script>
 </div>
 </div> -->
 
 <!-- <div style="text-align:center;">
   <div style="display:inline-block; transform:scale(0.5); transform-origin:center center;">
-    <script type="text/javascript" id="clustrmaps"
-      src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8&cl=ffffff&w=a">
     </script>
   </div>
 </div> -->
@@ -218,8 +217,7 @@ Pattern Recognition (**PR**), 2024.
 <div>
 <center>
   <b>Site Analytics</b> (since Oct. 2025)<br>
-  <script type="text/javascript" id="clustrmaps"
-    src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&co=2c3e50">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8&cl=ffffff&w=a">
   </script>
 </center>
 </div>
