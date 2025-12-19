@@ -13,7 +13,9 @@ redirect_from:
 # 👋 About Me 
 I am currently pursuing my Ph.D. at the Institute of Computing Technology <img src='./images/ICT.png' style="width: 1.9em;">, Chinese Academy of Sciences <img src='./images/UCAS.png' style="width: 1.6em;">, advised by Prof. [Zhaoqi Wang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328238.html). Concurrently, I serve as a Research Intern at AMAP <img src='./images/AMAP.png' style="width: 1.8em;">, Alibaba <img src='./images/Alibaba.png' style="width: 1.7em;">, where I work closely with [Xiangxiang Chu](https://cxxgtxy.github.io/). I am deeply grateful for the opportunity to collaborate with exceptional researchers including Prof. [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), Prof. [Yujun Cai](https://vanoracai.github.io/), and Prof. [Yiwei Wang](https://wangywust.github.io/). Their mentorship and insights have profoundly shaped my academic journey.
 
-My research interest includes Vision-Language Model (VLM), Large Language Model (LLM), Embodied Agents, Multimodal AI, and 3D Vision. I have published 20+ papers <a href='https://scholar.google.com/citations?user=zii-mcAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR, ICCV, AAAI.
+My research interest includes Vision-Language Model (VLM), Large Language Model (LLM), Embodied Agents, Multimodal AI, and 3D Vision. I have published 20+ papers 
+<a href='https://scholar.google.com/citations?user=zii-mcAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+at the top international AI conferences such as NeurIPS, ICLR, ICCV, AAAI.
 
 I will be graduating with my Ph.D. in June 2026 at the age of 26 and am <span style="color:red">**now exploring PostDoc opportunities starting Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email (📧 yuanzhenlong21b[at]ict[dot]ac[dot]cn) or WeChat (📧 YZL20000224).
 
@@ -181,7 +183,7 @@ Pattern Recognition (**PR**), 2024.
 <div>
 <center>
   <b>Site Analytics</b> (since Oct. 2025)<br>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8&co=2d62ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8'></script>
 </center>
 </div>
 
