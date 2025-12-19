@@ -182,8 +182,8 @@ Pattern Recognition (**PR**), 2024.
 <hr>
 <div>
 <center>
-  <b>Site Analytics</b> (since Oct. 2025)<br>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8'></script>
+  <b>Visitor Statistics</b> <br>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8&co=2d79ad'></script>
 </center>
 </div>
 
