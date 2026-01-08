@@ -15,8 +15,6 @@ I am currently pursuing my Ph.D. at the Institute of Computing Technology <img s
 
 My research interest includes Vision-Language Model (VLM), Large Language Model (LLM), Embodied Agents, Multimodal AI, and 3D Vision. I have published 20+ papers <a href='https://scholar.google.com/citations?user=zii-mcAAAAAJ'><img src="https://img.shields.io/badge/citations-202-red?logo=googlescholar" alt="citations"></a> at the top international AI conferences such as NeurIPS, ICLR, ICCV, AAAI.
 
-I will be graduating with my Ph.D. in June 2026 at the age of 26 and am <span style="color:red">**now exploring PostDoc opportunities starting Fall 2026**</span>. If you are interested in my profile, feel free to contact with me via email (📧 yuanzhenlong21b[at]ict[dot]ac[dot]cn) or WeChat (📧 YZL20000224).
-
 # 📚 Research Interests
 - ***Foundation Models & Pre-training 🔥🔥***
   - Vision-Language Models (VLMs) / Vision-Language Action (VLA) / Spatial Intelligence
