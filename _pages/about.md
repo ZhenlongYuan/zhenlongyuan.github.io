@@ -79,9 +79,6 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 </div>
 </div>
 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Reasoning-VLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912)
