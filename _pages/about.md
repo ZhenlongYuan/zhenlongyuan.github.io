@@ -70,6 +70,10 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 <div class='paper-box-text' markdown="1">
 [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480)
 
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Think with Videos</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Tool-Using Agent</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Multi-turn Agentic RL</span>
+
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
 [[Paper]](https://arxiv.org/abs/2510.08480)
@@ -92,11 +96,17 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 </div>
 </div>
 
-## Generation Model
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Qu1.png' alt="sym" width="100%"></div></div>
+
+## Generative Foundation Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Q1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
+
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Generation Model</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Tool-Using Agent</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Multimodal Reasoning</span>
 
 Qu X.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G,., Xiong G., Cai Y.
 
