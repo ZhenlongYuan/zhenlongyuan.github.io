@@ -93,7 +93,7 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 Zhang D.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 
-[[Paper]](https://arxiv.org/abs/2510.08480)
+[[Paper]](https://arxiv.org/abs/2511.19912)
 </div>
 </div>
 
