@@ -104,8 +104,8 @@ Zhang D.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Chen Z., Liao C., 
 From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Generation Model</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Tool-Using Agent</span>
-<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Multimodal Reasoning</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Image Editing</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Text-to-Image Generation</span>
 
 Qu X.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G,., Xiong G., Cai Y.
 
