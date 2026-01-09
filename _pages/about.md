@@ -13,7 +13,7 @@ redirect_from:
 # 👋 About Me 
 I am currently pursuing my Ph.D. at the Institute of Computing Technology <img src='./images/ICT.png' style="width: 1.9em;">, Chinese Academy of Sciences <img src='./images/UCAS.png' style="width: 1.6em;">, advised by Prof. [Zhaoqi Wang](http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328238.html). Concurrently, I serve as a Research Intern at AMAP <img src='./images/AMAP.png' style="width: 1.8em;">, Alibaba <img src='./images/Alibaba.png' style="width: 1.7em;">, where I work closely with [Xiangxiang Chu](https://cxxgtxy.github.io/). I am deeply grateful for the opportunity to collaborate with exceptional researchers including Prof. [Shuo Li](https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en), Prof. [Yujun Cai](https://vanoracai.github.io/), and Prof. [Yiwei Wang](https://wangywust.github.io/). Their mentorship and insights have profoundly shaped my academic journey.
 
-My research interest includes Vision-Language Model (VLM), Large Language Model (LLM), Embodied Agents, Multimodal AI, and 3D Vision. I have published 20+ papers <a href='https://scholar.google.com/citations?user=zii-mcAAAAAJ'><img src="https://img.shields.io/badge/citations-202-red?logo=googlescholar" alt="citations"></a> at the top international AI conferences such as NeurIPS, ICLR, ICCV, AAAI.
+My research interest includes Vision-Language Model (VLM), Large Language Model (LLM), Embodied Agents, Multimodal AI, and 3D Vision. I have published 20+ papers <a href='https://scholar.google.com/citations?user=zii-mcAAAAAJ'><img src="https://img.shields.io/badge/citations-209-red?logo=googlescholar" alt="citations"></a> at the top international AI conferences such as NeurIPS, ICLR, ICCV, AAAI.
 
 # 📚 Research Interests
 - ***Foundation Models & Pre-training 🔥🔥***
@@ -28,7 +28,8 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 # 🔥 Main News
 
-- *2025.11*: &nbsp;🎉🎉 We propose ADE-CoT
+- *2025.11*: &nbsp;🎉🎉 We propose ADE-CoT!
+- *2025.11*: &nbsp;🎉🎉 We propose [Reasoning-VLA](https://arxiv.org/abs/2511.19912), which is now available on ArXiv!
 - *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, has been accepted by ***IEEE Transactions on Circuits and Systems for Video Technology***!
 - *2025.10*: &nbsp;🎉🎉 We propose [Video-STAR](https://arxiv.org/abs/2510.08480), which is now available on ArXiv!
 - *2025.08*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
@@ -96,7 +97,22 @@ Zhenlong Yuan*, <span style="font-weight: bold;">Chengxuan Qian*</span>, Jing Ta
 </div>
 </div>
 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Reasoning-VLA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912)
+
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #e8f4f8; color: #0077b6; border-radius: 15px; font-size: 12px;">Multimodal Reasoning</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Autonomous Driving</span>
+<span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Open-World Applications</span>
+
+Zhang D.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
+
+[[Paper]](https://arxiv.org/abs/2510.08480)
+</div>
+</div>
 
 ## Generative Foundation Model
 
