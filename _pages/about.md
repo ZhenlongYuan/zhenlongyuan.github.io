@@ -28,9 +28,8 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 # 🔥 Main News
 
-- *2025.11*: &nbsp;🎉🎉 We propose ADE-CoT!
 - *2025.11*: &nbsp;🎉🎉 We propose [Reasoning-VLA](https://arxiv.org/abs/2511.19912), which is now available on ArXiv!
-- *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215), a multi-view stereo method that integrates depth-normal-edge priors and visibility guidance for robust 3D Reconstruction, has been accepted by ***IEEE Transactions on Circuits and Systems for Video Technology***!
+- *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215) has been ***Accepted*** by ***TCSVT 2025***.
 - *2025.10*: &nbsp;🎉🎉 We propose [Video-STAR](https://arxiv.org/abs/2510.08480), which is now available on ArXiv!
 - *2025.08*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) was reported by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
 - *2025.08*: &nbsp;🎉🎉 We propose [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1), which is now available on ArXiv!
