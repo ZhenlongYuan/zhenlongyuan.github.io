@@ -28,6 +28,8 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 # 🔥 Main News
 
+- *2026.01*: &nbsp;🎉🎉 Our work [Video-STAR](https://arxiv.org/abs/2510.08480) has been ***Accepted*** by ***ICLR 2026***.
+- *2026.01*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) has been ***Accepted*** by ***ICLR 2026***.
 - *2025.11*: &nbsp;🎉🎉 We propose [Reasoning-VLA](https://arxiv.org/abs/2511.19912), which is now available on ArXiv!
 - *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215) has been ***Accepted*** by ***TCSVT 2025***.
 - *2025.10*: &nbsp;🎉🎉 We propose [Video-STAR](https://arxiv.org/abs/2510.08480), which is now available on ArXiv!
@@ -49,7 +51,7 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 ## Multimodal LLMs Post-Training
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/VideoSTAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480)
 
@@ -63,7 +65,7 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/AutoDrive-R2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
 
