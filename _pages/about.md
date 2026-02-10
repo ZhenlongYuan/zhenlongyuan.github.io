@@ -51,7 +51,7 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 ## Multimodal LLMs Post-Training
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ImagineAgent' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ImagineAgent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation]()
 
@@ -61,7 +61,6 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 **Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
-[[Paper]](https://arxiv.org/abs/2510.08480)
 </div>
 </div>
 
