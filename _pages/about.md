@@ -28,8 +28,10 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 # 🔥 Main News
 
+- *2026.02*: &nbsp;🎉🎉 Our work [ADE-CoT](https://openreview.net/forum?id=id747ZRjaL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FCVPR%2F2026%2FConference%2FAuthors%23your-submissions)) has been ***Accepted*** by ***CVPR 2026***.
 - *2026.01*: &nbsp;🎉🎉 Our work [Video-STAR](https://arxiv.org/abs/2510.08480) has been ***Accepted*** by ***ICLR 2026***.
 - *2026.01*: &nbsp;🎉🎉 Our work [AutoDrive-R²](https://arxiv.org/abs/2509.01944v1) has been ***Accepted*** by ***ICLR 2026***.
+- *2025.11*: &nbsp;🎉🎉 We propose [ADE-CoT](https://openreview.net/forum?id=id747ZRjaL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FCVPR%2F2026%2FConference%2FAuthors%23your-submissions)), which is now available on ArXiv!
 - *2025.11*: &nbsp;🎉🎉 We propose [Reasoning-VLA](https://arxiv.org/abs/2511.19912), which is now available on ArXiv!
 - *2025.10*: &nbsp;🎉🎉 Our work [DVP-MVS++](https://arxiv.org/abs/2506.13215) has been ***Accepted*** by ***TCSVT 2025***.
 - *2025.10*: &nbsp;🎉🎉 We propose [Video-STAR](https://arxiv.org/abs/2510.08480), which is now available on ArXiv!
@@ -105,7 +107,7 @@ From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Image Editing</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Text-to-Image Generation</span>
 
-Qu X.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G,., Xiong G., Cai Y.
+<span style="font-weight: bold;">Yuan, Z.*</span>, Qu X.*, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G,., Xiong G., Cai Y.
 
 </div>
 </div>
