@@ -61,7 +61,7 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Tool-Using Agent</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Multi-turn Agentic RL</span>
 
-**Yuan, Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
+**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
 [[Paper]](https://arxiv.org/abs/2510.08480)
 </div>
@@ -77,7 +77,7 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 
 **Featured by [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)**
 
-**Yuan, Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
+**Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S
 
 [[Paper]](https://arxiv.org/abs/2509.01944v1)
 </div>
@@ -91,7 +91,7 @@ My research interest includes Vision-Language Model (VLM), Large Language Model 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Autonomous Driving</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Open-World Applications</span>
 
-Zhang D.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
+Zhang D.*, <span style="font-weight: bold;">Yuan Z.*</span>, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 
 [[Paper]](https://arxiv.org/abs/2511.19912)
 </div>
@@ -107,7 +107,7 @@ From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Image Editing</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Text-to-Image Generation</span>
 
-<span style="font-weight: bold;">Yuan, Z.*</span>, Qu X.*, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G,., Xiong G., Cai Y.
+<span style="font-weight: bold;">Yuan Z.*</span>, Qu X.*, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G,., Xiong G., Cai Y.
 
 </div>
 </div>
@@ -120,7 +120,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Image Editing</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Text-to-Image Generation</span>
 
-Yu H.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
+Yu H.*, <span style="font-weight: bold;">Yuan Z.*</span>, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
 
 </div>
 </div>
@@ -131,7 +131,7 @@ Yu H.*, <span style="font-weight: bold;">Yuan, Z.*</span>, Bai Y., Li J., Liu J.
 <div class='paper-box-text' markdown="1">
 [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
 
-**Yuan, Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
+**Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z, Jiang H., Wang, Z
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) (Under Review), 2025.
 
@@ -144,7 +144,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**) 
 
 [SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ieeexplore.ieee.org/document/11016951)
 
-**Yuan, Z**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
+**Yuan Z.**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
 IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2025.
 
@@ -156,7 +156,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**),
 <div class='paper-box-text' markdown="1">
 [DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 
-**Yuan, Z**., Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
+**Yuan Z.**., Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
 
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
@@ -169,7 +169,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 <div class='paper-box-text' markdown="1">
 [MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057)
 
-**Yuan, Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
+**Yuan Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
 
 AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
@@ -182,7 +182,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 <div class='paper-box-text' markdown="1">
 [SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
 
-**Yuan, Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
+**Yuan Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
 
 AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
@@ -195,7 +195,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 <div class='paper-box-text' markdown="1">
 [TSAR-MVS: Textureless-aware segmentation and correlative refinement guided multi-view stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
 
-**Yuan, Z.**, Cao, J., Wang, Z., Li, Z..
+**Yuan Z.**, Cao, J., Wang, Z., Li, Z..
 
 Pattern Recognition (**PR**), 2024.
 
