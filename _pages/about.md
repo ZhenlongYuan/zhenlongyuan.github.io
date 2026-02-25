@@ -120,7 +120,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #fff3e0; color: #e65100; border-radius: 15px; font-size: 12px;">Image Editing</span>
 <span style="display: inline-block; padding: 2px 10px; margin: 2px 4px 2px 0; background-color: #f3e5f5; color: #7b1fa2; border-radius: 15px; font-size: 12px;">Text-to-Image Generation</span>
 
-<span style="font-weight: bold;">Yuan Z.*</span>, Yu H.*, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
+**Yuan Z.\***, Yu H.*, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
 
 </div>
 </div>
