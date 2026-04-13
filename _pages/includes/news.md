@@ -74,6 +74,11 @@
 <ul class="news-list">
 
 <li class="news-item">
+  <span class="news-date">2026.03</span>
+  <span class="news-text">🚀 We released <a href="https://arxiv.org/abs/2603.27538">LongCat-Next</a>: A Native Multimodal Model (A3B) that unifies text, vision, and audio under a single autoregressive objective via discrete tokenization.</span>
+</li>
+
+<li class="news-item">
   <span class="news-date">2026.02</span>
   <span class="news-text">💼 Joined <strong>LongCat Team, Meituan</strong> as a Research Intern, working on the <strong>M17 3A Base Model</strong> team.</span>
 </li>

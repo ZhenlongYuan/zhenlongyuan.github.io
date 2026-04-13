@@ -132,11 +132,33 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 
 <div id="pub-section">
 
+<!-- ====== Technical Report ====== -->
+<details open>
+<summary>📄 Technical Report <span class="badge-count">1</span></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Tech Report 2026</div><img src='images/longcat-next.png' alt="LongCat-Next" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://arxiv.org/abs/2603.27538) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa2; border-radius:15px; font-size:12px;">Native Multimodal</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Any-to-Any Generation</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Foundation Model</span> \\
+Meituan LongCat Team
+
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2603.27538) [**<strong>[Code]</strong>**](https://github.com/meituan-longcat/LongCat-Next)
+
+LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and audio under a single autoregressive objective via discrete tokenization, achieving strong performance across multimodal benchmarks.
+
+</div>
+</div>
+
+</details>
+
 <!-- ====== Vision-Language Models & VLA ====== -->
 <details open>
 <summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/ImagineAgent.png' alt="What if Agents" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/ImagineAgent.png' alt="What if Agents" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000) <br>
@@ -197,28 +219,6 @@ Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 [**<strong>[Paper]</strong>**](https://arxiv.org/abs/2511.19912)
 
 Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
-
-</div>
-</div>
-
-</details>
-
-<!-- ====== Technical Report ====== -->
-<details open>
-<summary>📄 Technical Report <span class="badge-count">1</span></summary>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Tech Report 2026</div><img src='images/longcat-next.png' alt="LongCat-Next" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://arxiv.org/abs/2603.27538) <br>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa2; border-radius:15px; font-size:12px;">Native Multimodal</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Any-to-Any Generation</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Foundation Model</span> \\
-Meituan LongCat Team
-
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2603.27538) [**<strong>[Code]</strong>**](https://github.com/meituan-longcat/LongCat-Next)
-
-LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and audio under a single autoregressive objective via discrete tokenization, achieving strong performance across multimodal benchmarks.
 
 </div>
 </div>
