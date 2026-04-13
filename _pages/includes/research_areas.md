@@ -48,11 +48,6 @@
   font-size: 0.95em;
 }
 
-.keyword[data-weight="2"] {
-  font-size: 0.85em;
-  opacity: 0.9;
-}
-
 .keyword:hover {
   transform: translateY(-3px) scale(1.05);
   box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
@@ -65,13 +60,9 @@ window.addEventListener('load', function() {
     { keyword: '🔬 Vision-Language Model', weight: 5 },
     { keyword: '🧠 Large Language Model', weight: 5 },
     { keyword: '🤖 Embodied Agents', weight: 5 },
-    { keyword: '👁️ Multimodal AI', weight: 4 },
     { keyword: '📐 3D Vision', weight: 4 },
     { keyword: '🚀 Foundation Models', weight: 4 },
-    { keyword: '🛠️ Tool-Augmented RL', weight: 3 },
-    { keyword: '🏥 AI for Science', weight: 3 },
-    { keyword: '🧬 Biomedical Engineering', weight: 3 },
-    { keyword: '🎯 Spatial Intelligence', weight: 3 }
+    { keyword: '🏥 AI for Science', weight: 3 }
   ];
 
   function generateKeywordCloud() {

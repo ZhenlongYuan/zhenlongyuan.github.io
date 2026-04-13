@@ -79,6 +79,16 @@
 <div class="hobby-grid">
 
 <div class="hobby-card">
+  <div class="hobby-title">🏀 Sports</div>
+  <div class="hobby-desc">Passionate about basketball and fitness. Staying active is essential for a healthy mind and body.</div>
+</div>
+
+<div class="hobby-card">
+  <div class="hobby-title">🎵 Music</div>
+  <div class="hobby-desc">Avid music lover, especially fond of <strong>Hamilton</strong> — the soundtrack has been on repeat!</div>
+</div>
+
+<div class="hobby-card">
   <div class="hobby-title">💻 Coding</div>
   <div class="hobby-desc">Passionate about building open-source projects and exploring new technologies in AI and computer vision.</div>
 </div>
@@ -89,18 +99,8 @@
 </div>
 
 <div class="hobby-card">
-  <div class="hobby-title">🏸 Sports</div>
-  <div class="hobby-desc">Into badminton, basketball, and running. Keeping active is essential for a healthy mind!</div>
-</div>
-
-<div class="hobby-card">
   <div class="hobby-title">🎮 Gaming</div>
   <div class="hobby-desc">Enjoy playing games in my free time to unwind and have fun.</div>
-</div>
-
-<div class="hobby-card">
-  <div class="hobby-title">🎵 Music</div>
-  <div class="hobby-desc">Love listening to music across various genres — it's a great way to relax and recharge.</div>
 </div>
 
 <div class="hobby-card">

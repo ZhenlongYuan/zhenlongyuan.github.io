@@ -1,4 +1,4 @@
-# 📢 Talks and Teaching
+# 🎙️ Invited Talks
 
 <style>
 #talks-section details {
@@ -57,7 +57,15 @@
 }
 #talks-section .talks-list > li:last-child { border-bottom: none; }
 #talks-section .talks-list > li:hover { background: #fafbff; }
-
+#talks-section .talk-date {
+  font-size: 0.82em;
+  font-weight: 600;
+  color: #fff;
+  background: #5C6BC0;
+  padding: 2px 10px;
+  border-radius: 4px;
+  margin-right: 0.8em;
+}
 #talks-section a {
   color: #2196F3;
   text-decoration: none;
@@ -71,17 +79,10 @@
 
 <div id="talks-section">
 
-<details>
+<details open>
 <summary>🎙️ Invited Talks</summary>
 <ul class="talks-list">
-  <li>Coming soon...</li>
-</ul>
-</details>
-
-<details>
-<summary>📚 Teaching & Mentoring</summary>
-<ul class="talks-list">
-  <li>Coming soon...</li>
+  <li><span class="talk-date">TBD</span> Coming soon...</li>
 </ul>
 </details>
 

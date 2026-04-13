@@ -120,15 +120,14 @@
 <div class="school-header">
   <img src="/images/ICT.png" alt="ICT Logo" width="60"/>
   <div>
-    <p class="school-name">Institute of Computing Technology, Chinese Academy of Sciences & AMAP, Alibaba</p>
-    <p class="degree-info">Ph.D. in Information and Communication Engineering (Expected 2027)</p>
-    <p class="location">📍 Beijing & Hangzhou · Sept 2021 - Present</p>
+    <p class="school-name">Institute of Computing Technology, Chinese Academy of Sciences</p>
+    <p class="degree-info">Ph.D. in Information and Communication Engineering</p>
+    <p class="location">📍 Beijing · Graduated</p>
   </div>
 </div>
 <ul class="edu-details">
   <li>Research focus: Vision-Language Models, Large Language Models, Embodied Agents, Multimodal AI, 3D Vision</li>
   <li>Advised by <a href="http://english.ict.cas.cn/people/scien/bln/202303/t20230315_328238.html">Prof. Zhaoqi Wang</a></li>
-  <li>Research Intern at <a href="https://cxxgtxy.github.io/">AMAP, Alibaba</a>, working with <a href="https://cxxgtxy.github.io/">Xiangxiang Chu</a></li>
   <li>Collaborated with <a href="https://scholar.google.com/citations?user=6WNtJa0AAAAJ&hl=en">Prof. Shuo Li</a>, <a href="https://vanoracai.github.io/">Prof. Yujun Cai</a>, and <a href="https://wangywust.github.io/">Prof. Yiwei Wang</a></li>
   <li>Published 20+ papers at top AI conferences including NeurIPS, ICLR, ICML, CVPR, ICCV, AAAI</li>
 </ul>

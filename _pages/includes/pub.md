@@ -115,78 +115,70 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
   color: white;
 }
 
-.badge-impact, .badge-ccf {
-  display: inline-block;
-  padding: 4px 8px;
-  border-radius: 3px;
-  font-size: 0.75em;
-  font-weight: 500;
-}
-.badge-q1 {
-  background: #FFD700;
-  color: #333;
-}
-.badge-ccf-a {
-  background: #E91E63;
-  color: white;
-}
-.badge-ccf-b {
-  background: #FF9800;
-  color: white;
-}
-
 .paper-box-text strong {
   color: #9C27B0;
 }
-.paper-box-text img[src*="shields.io"] {
-  vertical-align: middle;
-  margin-left: 4px;
-}
 
-.research-tags {
-  display: inline-flex;
-  gap: 4px;
-  margin-left: 8px;
-  vertical-align: middle;
+/* Tag pills */
+.paper-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
 }
-.research-tag {
-  display: inline-block;
-  padding: 2px 6px;
-  font-size: 0.7em;
-  font-weight: 500;
-  border-radius: 3px;
-  background: rgba(118, 75, 162, 0.1);
-  color: #764ba2;
-  border: 1px solid rgba(118, 75, 162, 0.2);
-  white-space: nowrap;
-}
-
-.citation-badge {
+.paper-tag {
   display: inline-flex;
   align-items: center;
-  gap: 3px;
-  padding: 2px 6px;
-  font-size: 0.7em;
+  gap: 4px;
+  padding: 3px 10px;
+  font-size: 0.78em;
   font-weight: 500;
-  border-radius: 4px;
-  background: #4285f4;
-  color: white;
-  margin-left: 6px;
-  vertical-align: middle;
+  border-radius: 20px;
+  transition: all 0.2s;
+  cursor: default;
+  white-space: nowrap;
 }
+.paper-tag:hover {
+  transform: translateY(-1px);
+}
+.paper-tag.tool { background: linear-gradient(135deg, #e3f2fd, #bbdefb); color: #1565c0; }
+.paper-tag.rl { background: linear-gradient(135deg, #f3e5f5, #e1bee7); color: #7b1fa2; }
+.paper-tag.vision { background: linear-gradient(135deg, #e8f5e9, #c8e6c9); color: #2e7d32; }
+.paper-tag.driving { background: linear-gradient(135deg, #fff3e0, #ffe0b2); color: #e65100; }
+.paper-tag.reasoning { background: linear-gradient(135deg, #e0f7fa, #b2ebf2); color: #00838f; }
+.paper-tag.gen { background: linear-gradient(135deg, #fce4ec, #f8bbd0); color: #c62828; }
+.paper-tag.mvs { background: linear-gradient(135deg, #f1f8e9, #dcedc8); color: #558b2f; }
 </style>
 
 <div id="pub-section">
 
 <!-- ====== Vision-Language Models & VLA ====== -->
 <details open>
-<summary>🤖 Vision-Language Models & VLA <span class="badge-count">3</span></summary>
+<summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">CVPR 2026</div><img src='images/Q1.png' alt="ADE-CoT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ADE-CoT: ...](https://openreview.net/forum?id=id747ZRjaL) <!-- 请替换为完整标题 -->
+<span class="paper-tags">
+  <span class="paper-tag reasoning">⚡ Reasoning</span>
+  <span class="paper-tag driving">🚗 Autonomous Driving</span>
+</span>
+**Yuan Z.**, et al.
+
+[[Paper]](https://openreview.net/forum?id=id747ZRjaL)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <span class="research-tags"><span class="research-tag">Tool-Using Agent</span><span class="research-tag">Multi-turn RL</span></span> \\
-ICLR | January 2026 \\
+[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480)
+<span class="paper-tags">
+  <span class="paper-tag tool">🔧 Tool-Using Agent</span>
+  <span class="paper-tag rl">🔄 Multi-turn Agentic RL</span>
+</span>
 **Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
 [[Paper]](https://arxiv.org/abs/2510.08480) [[Code]](https://github.com/AMAP-ML/Video-STAR)
@@ -199,9 +191,12 @@ Video-STAR proposes a novel framework that reinforces zero-shot video understand
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1) <span class="research-tags"><span class="research-tag">Autonomous Driving</span><span class="research-tag">Multimodal Reasoning</span></span> \\
-ICLR | January 2026 \\
-**Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg) \\
+[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
+<span class="paper-tags">
+  <span class="paper-tag reasoning">⚡ Multimodal Reasoning</span>
+  <span class="paper-tag driving">🚗 Autonomous Driving</span>
+</span>
+**Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
 **Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.
 
 [[Paper]](https://arxiv.org/abs/2509.01944v1) [[Code]](https://github.com/AMAP-ML/AutoDrive-R2)
@@ -214,8 +209,11 @@ AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-La
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912) <span class="research-tags"><span class="research-tag">Autonomous Driving</span><span class="research-tag">Fast VLA</span></span> \\
-arXiv | November 2025 \\
+[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912)
+<span class="paper-tags">
+  <span class="paper-tag driving">🚗 Autonomous Driving</span>
+  <span class="paper-tag reasoning">⚡ Fast VLA</span>
+</span>
 Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 
 [[Paper]](https://arxiv.org/abs/2511.19912)
@@ -229,13 +227,16 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
 
 <!-- ====== 3D Vision ====== -->
 <details open>
-<summary>📐 3D Vision <span class="badge-count">5</span></summary>
+<summary>📐 3D Vision <span class="badge-count">6</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">TCSVT 2025</div><img src='images/DVP-MVS++.png' alt="DVP-MVS++" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215) <span class="research-tags"><span class="research-tag">Multi-View Stereo</span><span class="research-tag">3D Reconstruction</span></span> \\
-IEEE Transactions on Circuits and Systems for Video Technology | 2025 \\
+[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
+<span class="paper-tags">
+  <span class="paper-tag mvs">📷 Multi-View Stereo</span>
+  <span class="paper-tag vision">👁️ 3D Reconstruction</span>
+</span>
 **Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.
 
 [[Paper]](https://arxiv.org/abs/2506.13215)
@@ -248,9 +249,12 @@ DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and v
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">TCSVT 2025</div><img src='images/SED-MVS.png' alt="SED-MVS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ieeexplore.ieee.org/document/11016951) <span class="research-tags"><span class="research-tag">Segmentation</span><span class="research-tag">Depth Estimation</span></span> \\
-IEEE Transactions on Circuits and Systems for Video Technology | 2025 \\
-**Yuan Z.**., Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
+[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ieeexplore.ieee.org/document/11016951)
+<span class="paper-tags">
+  <span class="paper-tag mvs">📷 Segmentation-Driven</span>
+  <span class="paper-tag vision">👁️ Depth Estimation</span>
+</span>
+**Yuan Z.**, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
 [[Paper]](https://ieeexplore.ieee.org/document/11016951)
 
@@ -262,9 +266,12 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2025</div><img src='images/DVP-MVS.png' alt="DVP-MVS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056) <span class="research-tags"><span class="research-tag">Visibility Prior</span><span class="research-tag">3D Vision</span></span> \\
-AAAI Conference on Artificial Intelligence | 2025 \\
-**Yuan Z.**., Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
+[DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
+<span class="paper-tags">
+  <span class="paper-tag mvs">📷 Visibility Prior</span>
+  <span class="paper-tag vision">👁️ 3D Vision</span>
+</span>
+**Yuan Z.**, Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
 
@@ -274,8 +281,11 @@ AAAI Conference on Artificial Intelligence | 2025 \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2025</div><img src='images/MSP-MVS2.png' alt="MSP-MVS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057) <span class="research-tags"><span class="research-tag">Segmentation Prior</span><span class="research-tag">Multi-View</span></span> \\
-AAAI Conference on Artificial Intelligence | 2025 \\
+[MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057)
+<span class="paper-tags">
+  <span class="paper-tag mvs">📷 Segmentation Prior</span>
+  <span class="paper-tag vision">👁️ Multi-View</span>
+</span>
 **Yuan Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [[Code]](https://github.com/ZhenlongYuan/MSP-MVS)
@@ -286,8 +296,11 @@ AAAI Conference on Artificial Intelligence | 2025 \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2024</div><img src='images/SD-MVS.png' alt="SD-MVS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28512) <span class="research-tags"><span class="research-tag">Spherical Refinement</span><span class="research-tag">EM Optimization</span></span> \\
-AAAI Conference on Artificial Intelligence | 2024 \\
+[SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
+<span class="paper-tags">
+  <span class="paper-tag mvs">📷 Spherical Refinement</span>
+  <span class="paper-tag vision">👁️ EM Optimization</span>
+</span>
 **Yuan Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [[Code]](https://github.com/ZhenlongYuan/SD-MVS)
@@ -298,8 +311,11 @@ AAAI Conference on Artificial Intelligence | 2024 \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">PR 2024</div><img src='images/TSAR-MVS.png' alt="TSAR-MVS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TSAR-MVS: Textureless-aware segmentation and correlative refinement guided multi-view stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169) <span class="research-tags"><span class="research-tag">Textureless</span><span class="research-tag">Pattern Recognition</span></span> \\
-Pattern Recognition | 2024 \\
+[TSAR-MVS: Textureless-aware segmentation and correlative refinement guided multi-view stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
+<span class="paper-tags">
+  <span class="paper-tag mvs">📷 Textureless-Aware</span>
+  <span class="paper-tag vision">👁️ Pattern Recognition</span>
+</span>
 **Yuan Z.**, Cao, J., Wang, Z., Li, Z.
 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [[Code]](https://github.com/ZhenlongYuan/TSAR-MVS)

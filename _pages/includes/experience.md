@@ -115,19 +115,34 @@
 <div id="work-section">
 
 <details open>
-<summary>💼 Research Experience</summary>
+<summary>💼 Industry Experience</summary>
 
 <div class="exp-item">
 <div class="company-header">
-  <img src="/images/AMAP.png" alt="AMAP Logo" width="60"/>
+  <img src="/images/DreamX.png" alt="DreamView Logo" width="60"/>
   <div>
-    <p class="company-name">AMAP, Alibaba</p>
-    <p class="position-info">Research Intern, Autonomous Driving Lab</p>
-    <p class="location">📍 Hangzhou · 2021 - Present</p>
+    <p class="company-name">DreamView, Meituan</p>
+    <p class="position-info">Research Intern, M173A (3A Base Model) Team</p>
+    <p class="location">📍 Beijing · Feb 2026 - Present</p>
   </div>
 </div>
 <ul class="exp-details">
-  <li>Working closely with <a href="https://cxxgtxy.github.io/">Xiangxiang Chu</a> on Vision-Language-Action models</li>
+  <li>Research focus: Vision-Language-Action (VLA) models for autonomous driving</li>
+  <li>Developed <strong>LongCat-Next</strong>, a next-generation long-context video understanding system for autonomous driving</li>
+  <li>Contributing to the M173A foundation model research and development</li>
+</ul>
+</div>
+
+<div class="exp-item">
+<div class="company-header">
+  <img src="/images/DreamX.png" alt="DreamView Logo" width="60"/>
+  <div>
+    <p class="company-name">DreamView, Meituan</p>
+    <p class="position-info">Research Intern, Autonomous Driving Lab</p>
+    <p class="location">📍 Beijing · 2021 - Feb 2026</p>
+  </div>
+</div>
+<ul class="exp-details">
   <li>Developed <a href="https://arxiv.org/abs/2510.08480">Video-STAR</a>: Reinforcing zero-shot video understanding with tools</li>
   <li>Developed <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a>: Incentivizing reasoning and self-reflection for VLA in autonomous driving</li>
   <li>Developed <a href="https://arxiv.org/abs/2511.19912">Reasoning-VLA</a>: A fast and general VLA reasoning model for autonomous driving</li>

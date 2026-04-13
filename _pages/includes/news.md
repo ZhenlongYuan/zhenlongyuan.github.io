@@ -75,6 +75,11 @@
 
 <li class="news-item">
   <span class="news-date">2026.02</span>
+  <span class="news-text">💼 Joined <strong>DreamView, Meituan</strong> as a Research Intern, working on the <strong>M173A (3A Base Model)</strong> team.</span>
+</li>
+
+<li class="news-item">
+  <span class="news-date">2026.02</span>
   <span class="news-text">🎉🎉 Our work <a href="https://openreview.net/forum?id=id747ZRjaL">ADE-CoT</a> has been <strong>Accepted</strong> by <strong>CVPR 2026</strong>.</span>
 </li>
 
@@ -89,23 +94,8 @@
 </li>
 
 <li class="news-item">
-  <span class="news-date">2025.11</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://openreview.net/forum?id=id747ZRjaL">ADE-CoT</a>, which is now available on ArXiv!</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2025.11</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2511.19912">Reasoning-VLA</a>, which is now available on ArXiv!</span>
-</li>
-
-<li class="news-item">
   <span class="news-date">2025.10</span>
   <span class="news-text">🎉🎉 Our work <a href="https://arxiv.org/abs/2506.13215">DVP-MVS++</a> has been <strong>Accepted</strong> by <strong>TCSVT 2025</strong>.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2025.10</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2510.08480">Video-STAR</a>, which is now available on ArXiv!</span>
 </li>
 
 <li class="news-item">
@@ -114,23 +104,8 @@
 </li>
 
 <li class="news-item">
-  <span class="news-date">2025.08</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a>, which is now available on ArXiv!</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2025.06</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2506.13215">DVP-MVS++</a>, which is now available on ArXiv!</span>
-</li>
-
-<li class="news-item">
   <span class="news-date">2025.05</span>
   <span class="news-text">🎉🎉 Our work <a href="https://ieeexplore.ieee.org/document/11016951">SED-MVS</a> has been <strong>Accepted</strong> by <strong>TCSVT 2025</strong>.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2024.12</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2503.13721">SED-MVS</a>, which is now available on ArXiv!</span>
 </li>
 
 <li class="news-item">
@@ -143,29 +118,9 @@
   <span class="news-text">🎉🎉 Our work <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33057">MSP-MVS</a> has been <strong>Accepted</strong> by <strong>AAAI 2025</strong>.</span>
 </li>
 
-</ul>
-
-<div class="news-more" id="newsMore">
-<ul class="news-list">
-
-<li class="news-item">
-  <span class="news-date">2024.08</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2412.11578">DVP-MVS</a>, which is now available on ArXiv!</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2024.08</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2407.19323">MSP-MVS</a>, which is now available on ArXiv!</span>
-</li>
-
 <li class="news-item">
   <span class="news-date">2024.05</span>
   <span class="news-text">🎉🎉 Our work <a href="https://www.sciencedirect.com/science/article/pii/S0031320324003169">TSAR-MVS</a> has been <strong>Accepted</strong> by <strong>PR 2024</strong>.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2024.01</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2308.09990">TSAR-MVS</a>, which is now available on ArXiv!</span>
 </li>
 
 <li class="news-item">
@@ -173,14 +128,6 @@
   <span class="news-text">🎉🎉 Our work <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28512">SD-MVS</a> has been <strong>Accepted</strong> by <strong>AAAI 2024</strong>.</span>
 </li>
 
-<li class="news-item">
-  <span class="news-date">2023.09</span>
-  <span class="news-text">🎉🎉 We propose <a href="https://arxiv.org/abs/2401.06385">SD-MVS</a>, which is now available on ArXiv!</span>
-</li>
-
 </ul>
-</div>
-
-<button class="news-toggle" id="newsToggle" onclick="var m=document.getElementById('newsMore');var b=document.getElementById('newsToggle');if(m.classList.contains('show')){m.classList.remove('show');b.textContent='▼ Show earlier news (6 more)'}else{m.classList.add('show');b.textContent='▲ Collapse'}">▼ Show earlier news (6 more)</button>
 
 </div>

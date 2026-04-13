@@ -28,6 +28,10 @@ redirect_from:
 {% include_relative includes/experience.md %}
 <br>
 
+<span class='anchor' id='-technical-skills'></span>
+{% include_relative includes/skills.md %}
+<br>
+
 <span class='anchor' id='-publications'></span>
 {% include_relative includes/pub.md %}
 <br>
@@ -43,14 +47,6 @@ redirect_from:
 <span class='anchor' id='-hobbies-and-interests'></span>
 {% include_relative includes/hobbies.md %}
 <br>
-
-<hr>
-<div>
-<center>
-  <b>Visitor Statistics</b> <br>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8&co=2d79ad'></script>
-</center>
-</div>
 
 <div style="height:20px;">
 </div>
