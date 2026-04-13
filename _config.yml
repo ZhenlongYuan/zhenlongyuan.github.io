@@ -165,5 +165,6 @@ compress_html:
 
 # Visitor Map (ClustrMaps)
 # Get your ID from https://clustrmaps.com/
-footer_scripts:
-  - '//clustrmaps.com/globe.js?d=eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8'
+clustrmaps:
+  enabled: true
+  id: "eNPhrhf2j2RPUEw77fx7r9arT_fbosRAdIEQj-h5Bf8"
