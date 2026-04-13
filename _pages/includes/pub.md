@@ -89,7 +89,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
   transition: all 0.2s;
 }
 .paper-box-text a:hover {
-  color: #9C27B0;
+  color: #d44000;
   text-decoration: underline;
 }
 
@@ -116,7 +116,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 }
 
 .paper-box-text strong {
-  color: #9C27B0;
+  color: #d44000;
 }
 
 /* Tag pills */
@@ -320,7 +320,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 [TSAR-MVS: Textureless-aware segmentation and correlative refinement guided multi-view stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
 <span class="paper-tags">
   <span class="paper-tag mvs">📷 Textureless-Aware</span>
-  <span class="paper-tag vision">👁️ Pattern Recognition</span>
+  <span class="paper-tag vision">👁️ 3D Reconstruction</span>
 </span>
 **Yuan Z.**, Cao, J., Wang, Z., Li, Z.
 

@@ -121,13 +121,14 @@
 <div class="company-header">
   <img src="/images/DreamX.png" alt="DreamX Logo" width="60"/>
   <div>
-    <p class="company-name">DreamX, Alibaba</p>
+    <p class="company-name">DreamX Team, Alibaba</p>
     <p class="position-info">Research Intern</p>
-    <p class="location">📍 Beijing · Feb 2026 - Present</p>
+    <p class="location">📍 Beijing · Jun 2025 - Jan 2026</p>
   </div>
 </div>
 <ul class="exp-details">
-  <li>Research focus: Vision-Language Models, Foundation Models, Agentic AI</li>
+  <li>Research focus: Vision-Language Models (VLM), Foundation Models, Agentic AI</li>
+  <li>Contributed to <a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a>: A General-Purpose Interactive World Model</li>
 </ul>
 </div>
 
@@ -137,7 +138,7 @@
   <div>
     <p class="company-name">LongCat Team, Meituan</p>
     <p class="position-info">Research Intern</p>
-    <p class="location">📍 Beijing · 2021 - Feb 2026</p>
+    <p class="location">📍 Beijing · Jan 2026 - Present</p>
   </div>
 </div>
 <ul class="exp-details">

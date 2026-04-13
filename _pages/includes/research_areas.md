@@ -55,9 +55,12 @@ window.addEventListener('load', function() {
   const coreKeywords = [
     { keyword: '🤖 Vision-Language Model', weight: 5 },
     { keyword: '🧠 Agentic Reinforcement Learning', weight: 5 },
-    { keyword: '🦾 Embodied Agents', weight: 5 },
+    { keyword: '📐 Spatial Intelligence', weight: 5 },
     { keyword: '🚀 Foundation Model', weight: 5 },
-    { keyword: '🏥 AI for Science', weight: 5 }
+    { keyword: '🏥 AI for Science', weight: 5 },
+    { keyword: '🦾 Embodied Agents', weight: 5 },
+    { keyword: '⚡ Safety', weight: 5 },
+    { keyword: '👁️ 3D Vision', weight: 5 }
   ];
 
   function generateKeywordCloud() {
