@@ -72,13 +72,25 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
   padding: 1.5em;
   border-bottom: 1px solid #f0f0f0;
   transition: background 0.15s;
+  display: flex;
+  gap: 1.5em;
+  align-items: flex-start;
 }
 .paper-box:last-child { border-bottom: none; }
 .paper-box:hover { background: #fdfaff; }
 
+.paper-box-image {
+  flex-shrink: 0;
+  width: 200px;
+}
 .paper-box-image img {
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.paper-box-text {
+  flex: 1;
+  min-width: 0;
 }
 
 .paper-box-text a {
@@ -89,7 +101,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
   transition: all 0.2s;
 }
 .paper-box-text a:hover {
-  color: #d44000;
+  color: #9C27B0;
   text-decoration: underline;
 }
 
@@ -116,7 +128,26 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 }
 
 .paper-box-text strong {
-  color: #d44000;
+  color: #1565C0;
+  font-weight: 700;
+}
+
+.paper-box-text .author-line {
+  display: block;
+  font-size: 0.88em;
+  line-height: 1.6;
+  word-break: break-all;
+  margin-top: 0.3em;
+}
+
+.paper-box-text .links-line {
+  display: block;
+  font-size: 0.85em;
+  margin-top: 0.4em;
+}
+
+.paper-box-text .links-line a {
+  margin-right: 0.8em;
 }
 
 /* Tag pills */
@@ -164,9 +195,8 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
   <span class="paper-tag tool">🔧 Tool-Using Agent</span>
   <span class="paper-tag rl">🔄 Multi-turn Agentic RL</span>
 </span>
-**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
-
-[[Paper]](https://arxiv.org/abs/2510.08480) [[Code]](https://github.com/AMAP-ML/Video-STAR)
+<span class="author-line">**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.</span>
+<span class="links-line">[[Paper]](https://arxiv.org/abs/2510.08480) [[Code]](https://github.com/AMAP-ML/Video-STAR)</span>
 
 Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
 
@@ -182,9 +212,8 @@ Video-STAR proposes a novel framework that reinforces zero-shot video understand
   <span class="paper-tag driving">🚗 Autonomous Driving</span>
 </span>
 **Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)
-**Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.
-
-[[Paper]](https://arxiv.org/abs/2509.01944v1) [[Code]](https://github.com/AMAP-ML/AutoDrive-R2)
+<span class="author-line">**Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.</span>
+<span class="links-line">[[Paper]](https://arxiv.org/abs/2509.01944v1) [[Code]](https://github.com/AMAP-ML/AutoDrive-R2)</span>
 
 AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-Language-Action models in autonomous driving scenarios.
 
@@ -199,11 +228,42 @@ AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-La
   <span class="paper-tag driving">🚗 Autonomous Driving</span>
   <span class="paper-tag reasoning">⚡ Fast VLA</span>
 </span>
-Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
-
-[[Paper]](https://arxiv.org/abs/2511.19912)
+<span class="author-line">Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.</span>
+<span class="links-line">[[Paper]](https://arxiv.org/abs/2511.19912)</span>
 
 Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
+
+</div>
+</div>
+
+</details>
+
+<!-- ====== Generative Foundation Model ====== -->
+<details open>
+<summary>🎨 Generative Foundation Model <span class="badge-count">2</span></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Scale-Speed.png' alt="From Scale to Speed" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
+<span class="paper-tags">
+  <span class="paper-tag diffusion">🎨 Generation Model</span>
+  <span class="paper-tag tool">🖼️ Image Editing</span>
+</span>
+<span class="author-line">Qu X.\*, **Yuan Z.\***, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G., Xiong G., Cai Y.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Degradation.png' alt="Recovering Degradations" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Recovering Degradations with Generative Model: A Consistency-aware Distillation Network for Infrared and Visible Image Fusion
+<span class="paper-tags">
+  <span class="paper-tag diffusion">🎨 Generation Model</span>
+  <span class="paper-tag tool">🌡️ Infrared-Visible Fusion</span>
+</span>
+<span class="author-line">Yu H.\*, **Yuan Z.\***, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.</span>
 
 </div>
 </div>
@@ -222,9 +282,8 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
   <span class="paper-tag diffusion">✨ Diffusion Model</span>
   <span class="paper-tag reasoning">⚡ Chain-of-Thought</span>
 </span>
-**Yuan Z.**, et al.
-
-[[Paper]](https://openreview.net/forum?id=id747ZRjaL)
+<span class="author-line">**Yuan Z.**, et al.</span>
+<span class="links-line">[[Paper]](https://openreview.net/forum?id=id747ZRjaL)</span>
 
 </div>
 </div>
@@ -243,9 +302,8 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
   <span class="paper-tag mvs">📷 Multi-View Stereo</span>
   <span class="paper-tag vision">👁️ 3D Reconstruction</span>
 </span>
-**Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.
-
-[[Paper]](https://arxiv.org/abs/2506.13215)
+<span class="author-line">**Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.</span>
+<span class="links-line">[[Paper]](https://arxiv.org/abs/2506.13215)</span>
 
 DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and visibility prior modeling.
 
@@ -260,9 +318,8 @@ DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and v
   <span class="paper-tag mvs">📷 Segmentation-Driven</span>
   <span class="paper-tag vision">👁️ Depth Estimation</span>
 </span>
-**Yuan Z.**, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
-
-[[Paper]](https://ieeexplore.ieee.org/document/11016951)
+<span class="author-line">**Yuan Z.**, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.</span>
+<span class="links-line">[[Paper]](https://ieeexplore.ieee.org/document/11016951)</span>
 
 SED-MVS introduces segmentation-driven and edge-aligned deformation for robust multi-view stereo with depth restoration.
 
@@ -277,9 +334,8 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
   <span class="paper-tag mvs">📷 Visibility Prior</span>
   <span class="paper-tag vision">👁️ 3D Vision</span>
 </span>
-**Yuan Z.**, Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
-
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [[Code]](https://github.com/ZhenlongYuan/DVP-MVS)
+<span class="author-line">**Yuan Z.**, Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.</span>
+<span class="links-line">[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [[Code]](https://github.com/ZhenlongYuan/DVP-MVS)</span>
 
 </div>
 </div>
@@ -292,9 +348,8 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
   <span class="paper-tag mvs">📷 Segmentation Prior</span>
   <span class="paper-tag vision">👁️ Multi-View</span>
 </span>
-**Yuan Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
-
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [[Code]](https://github.com/ZhenlongYuan/MSP-MVS)
+<span class="author-line">**Yuan Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.</span>
+<span class="links-line">[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [[Code]](https://github.com/ZhenlongYuan/MSP-MVS)</span>
 
 </div>
 </div>
@@ -307,9 +362,8 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
   <span class="paper-tag mvs">📷 Spherical Refinement</span>
   <span class="paper-tag vision">👁️ EM Optimization</span>
 </span>
-**Yuan Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
-
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [[Code]](https://github.com/ZhenlongYuan/SD-MVS)
+<span class="author-line">**Yuan Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.</span>
+<span class="links-line">[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [[Code]](https://github.com/ZhenlongYuan/SD-MVS)</span>
 
 </div>
 </div>
@@ -317,14 +371,13 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">PR 2024</div><img src='images/TSAR-MVS.png' alt="TSAR-MVS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TSAR-MVS: Textureless-aware segmentation and correlative refinement guided multi-view stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
+[TSAR-MVS: Textureless-Aware Segmentation and Correlative Refinement Guided Multi-View Stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
 <span class="paper-tags">
   <span class="paper-tag mvs">📷 Textureless-Aware</span>
-  <span class="paper-tag vision">👁️ 3D Reconstruction</span>
+  <span class="paper-tag vision">👁️ 3D Vision</span>
 </span>
-**Yuan Z.**, Cao, J., Wang, Z., Li, Z.
-
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [[Code]](https://github.com/ZhenlongYuan/TSAR-MVS)
+<span class="author-line">**Yuan Z.**, Cao, J., Wang, Z., Li, Z.</span>
+<span class="links-line">[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [[Code]](https://github.com/ZhenlongYuan/TSAR-MVS)</span>
 
 </div>
 </div>
