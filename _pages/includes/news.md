@@ -74,13 +74,8 @@
 <ul class="news-list">
 
 <li class="news-item">
-  <span class="news-date">2025.06</span>
+  <span class="news-date">2026.02</span>
   <span class="news-text">💼 Joined <strong>LongCat Team, Meituan</strong> as a Research Intern, working on the <strong>M173A (3A Base Model)</strong> team.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2025.06</span>
-  <span class="news-text">💼 Joined <strong>DreamX-World Team, Alibaba</strong> as a Research Intern.</span>
 </li>
 
 <li class="news-item">
@@ -106,6 +101,11 @@
 <li class="news-item">
   <span class="news-date">2025.08</span>
   <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a> was reported by <a href="https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg">AutoDrive Heart (自动驾驶之心)</a>.</span>
+</li>
+
+<li class="news-item">
+  <span class="news-date">2025.05</span>
+  <span class="news-text">💼 Joined <strong>DreamX-World Team, Alibaba</strong> as a Research Intern.</span>
 </li>
 
 <li class="news-item">
