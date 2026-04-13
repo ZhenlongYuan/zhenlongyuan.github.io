@@ -119,7 +119,7 @@
 
 <div class="exp-item">
 <div class="company-header">
-  <img src="/images/DreamX.png" alt="DreamX Logo" width="60"/>
+  <img src="/images/Alibaba.png" alt="DreamX Logo" width="60"/>
   <div>
     <p class="company-name">DreamX Team, Alibaba</p>
     <p class="position-info">Research Intern</p>
@@ -129,22 +129,22 @@
 <ul class="exp-details">
   <li>Research focus: Vision-Language Models, Foundation Models, Agentic AI</li>
   <li>Official GitHub: <a href="https://github.com/AMAP-ML/DreamX-World">AMAP-ML/DreamX-World</a></li>
+  <li>Previous work: <a href="https://arxiv.org/abs/2510.08480">Video-STAR</a>, <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a>, <a href="https://arxiv.org/abs/2511.19912">Reasoning-VLA</a></li>
 </ul>
 </div>
 
 <div class="exp-item">
 <div class="company-header">
-  <img src="/images/Meituan.png" alt="Meituan Logo" width="60"/>
+  <img src="/images/longcat.png" alt="LongCat Logo" width="60"/>
   <div>
     <p class="company-name">LongCat Team, Meituan</p>
     <p class="position-info">Research Intern, M173A (3A Base Model) Team</p>
-    <p class="location">📍 Beijing · Jan 2026 - Present</p>
+    <p class="location">📍 Beijing · Feb 2026 - Present</p>
   </div>
 </div>
 <ul class="exp-details">
   <li>Research and developed <strong>LongCat-Next</strong>, a technical report on next-generation long-context video understanding for autonomous driving</li>
   <li>Contributing to the M173A foundation model research and development</li>
-  <li>Previous work: <a href="https://arxiv.org/abs/2510.08480">Video-STAR</a>, <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a>, <a href="https://arxiv.org/abs/2511.19912">Reasoning-VLA</a></li>
 </ul>
 </div>
 

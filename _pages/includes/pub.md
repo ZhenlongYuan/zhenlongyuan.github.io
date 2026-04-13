@@ -128,7 +128,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 }
 
 .paper-box-text strong {
-  color: #1565C0;
+  color: #0D47A1;
   font-weight: 700;
 }
 
@@ -240,20 +240,7 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
 
 <!-- ====== Generative Foundation Model ====== -->
 <details open>
-<summary>🎨 Generative Foundation Model <span class="badge-count">2</span></summary>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Scale-Speed.png' alt="From Scale to Speed" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
-<span class="paper-tags">
-  <span class="paper-tag diffusion">🎨 Generation Model</span>
-  <span class="paper-tag tool">🖼️ Image Editing</span>
-</span>
-<span class="author-line">Qu X.\*, **Yuan Z.\***, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G., Xiong G., Cai Y.</span>
-
-</div>
-</div>
+<summary>🎨 Generative Foundation Model <span class="badge-count">1</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Degradation.png' alt="Recovering Degradations" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -277,12 +264,12 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">CVPR 2026</div><img src='images/Q1.png' alt="ADE-CoT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ADE-CoT: ...](https://openreview.net/forum?id=id747ZRjaL)
+[ADE-CoT: Adaptive Diffusion Elicits Chain-of-Thought in Image Editing](https://openreview.net/forum?id=id747ZRjaL)
 <span class="paper-tags">
   <span class="paper-tag diffusion">✨ Diffusion Model</span>
   <span class="paper-tag reasoning">⚡ Chain-of-Thought</span>
 </span>
-<span class="author-line">**Yuan Z.**, et al.</span>
+<span class="author-line">Qu X.\*, **Yuan Z.\***, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G., Xiong G., Cai Y.</span>
 <span class="links-line">[[Paper]](https://openreview.net/forum?id=id747ZRjaL)</span>
 
 </div>
@@ -385,3 +372,42 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 </details>
 
 </div>
+
+<div id="pub-connect-box">
+<div class="connect-box">
+  <h3>📬 Let's Connect</h3>
+  <p>📫 Email: <a href="mailto:yuanzhenlong21b@ict.ac.cn">yuanzhenlong21b@ict.ac.cn</a></p>
+  <p>💼 I'm eager to connect with fellow AI researchers and enthusiasts passionate about advancing multimodal AI and embodied intelligence.</p>
+  <p>📍 Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China</p>
+</div>
+</div>
+
+<style>
+#pub-connect-box {
+  margin-top: 2em;
+}
+#pub-connect-box .connect-box {
+  padding: 1.2em 1.5em;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%);
+  border: 1px solid #e0d6f0;
+}
+#pub-connect-box .connect-box h3 {
+  margin: 0 0 0.6em 0;
+  font-size: 1.05em;
+  color: #1a1a1a;
+}
+#pub-connect-box .connect-box p {
+  margin: 0.3em 0;
+  font-size: 0.92em;
+  color: #444;
+  line-height: 1.7;
+}
+#pub-connect-box .connect-box a {
+  color: #1976D2;
+  text-decoration: none;
+}
+#pub-connect-box .connect-box a:hover {
+  text-decoration: underline;
+}
+</style>
