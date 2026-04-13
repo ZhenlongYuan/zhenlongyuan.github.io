@@ -136,16 +136,16 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 <details open>
 <summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/WhatIfAgents.png' alt="What if Agents" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/ImagineAgent.png' alt="What if Agents" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000) <br>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Vision-Language</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Open-Vocabulary HOI</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Agentic Generation</span> \\
-**Yuan Z.**, [author list TBD]
+**Yuan Z.**, Qu X., Tang J., Chen R., Sun L., Chen R., Yu H., Qian C., Chu X., Li S., Zhou Y.
 
-[**Paper**](https://arxiv.org/abs/0000.00000)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/0000.00000)
 
 What if Agents Could Imagine? reinforces open-vocabulary Human-Object Interaction comprehension through generative modeling.
 
@@ -161,7 +161,7 @@ What if Agents Could Imagine? reinforces open-vocabulary Human-Object Interactio
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Zero-shot Video</span> \\
 **Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
-[**Paper**](https://arxiv.org/abs/2510.08480) [**Code**](https://github.com/AMAP-ML/Video-STAR)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2510.08480) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/Video-STAR)
 
 Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
 
@@ -178,7 +178,7 @@ Video-STAR proposes a novel framework that reinforces zero-shot video understand
 **Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg) \\
 **Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.
 
-[**Paper**](https://arxiv.org/abs/2509.01944v1) [**Code**](https://github.com/AMAP-ML/AutoDrive-R2)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2509.01944v1) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/AutoDrive-R2)
 
 AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-Language-Action models in autonomous driving scenarios.
 
@@ -194,7 +194,7 @@ AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-La
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Real-time Inference</span> \\
 Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 
-[**Paper**](https://arxiv.org/abs/2511.19912)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2511.19912)
 
 Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
 
@@ -207,7 +207,7 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
 <details open>
 <summary>📄 Technical Report <span class="badge-count">1</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Tech Report 2026</div><img src='images/LongCat-Next.png' alt="LongCat-Next" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Tech Report 2026</div><img src='images/longcat-next.png' alt="LongCat-Next" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://arxiv.org/abs/2603.27538) <br>
@@ -216,7 +216,7 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Foundation Model</span> \\
 Meituan LongCat Team
 
-[**Paper**](https://arxiv.org/abs/2603.27538) [**Code**](https://github.com/meituan-longcat/LongCat-Next)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2603.27538) [**<strong>[Code]</strong>**](https://github.com/meituan-longcat/LongCat-Next)
 
 LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and audio under a single autoregressive objective via discrete tokenization, achieving strong performance across multimodal benchmarks.
 
@@ -238,7 +238,7 @@ LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and a
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Image Editing</span> \\
 Qu X.\*, **Yuan Z.\***, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G., Xiong G., Cai Y.
 
-[**Paper**](https://openreview.net/forum?id=id747ZRjaL)
+[**<strong>[Paper]</strong>**](https://openreview.net/forum?id=id747ZRjaL)
 
 </div>
 </div>
@@ -269,7 +269,7 @@ Yu H.\*, **Yuan Z.\***, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">3D Reconstruction</span> \\
 **Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.
 
-[**Paper**](https://arxiv.org/abs/2506.13215)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2506.13215)
 
 DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and visibility prior modeling.
 
@@ -284,7 +284,7 @@ DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and v
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Depth Estimation</span> \\
 **Yuan Z.**, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
-[**Paper**](https://ieeexplore.ieee.org/document/11016951)
+[**<strong>[Paper]</strong>**](https://ieeexplore.ieee.org/document/11016951)
 
 SED-MVS introduces segmentation-driven and edge-aligned deformation for robust multi-view stereo with depth restoration.
 
@@ -299,7 +299,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">3D Vision</span> \\
 **Yuan Z.**, Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
 
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [**Code**](https://github.com/ZhenlongYuan/DVP-MVS)
+[**<strong>[Paper]</strong>**](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [**<strong>[Code]</strong>**](https://github.com/ZhenlongYuan/DVP-MVS)
 
 </div>
 </div>
@@ -312,7 +312,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Multi-View</span> \\
 **Yuan Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
 
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [**Code**](https://github.com/ZhenlongYuan/MSP-MVS)
+[**<strong>[Paper]</strong>**](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [**<strong>[Code]</strong>**](https://github.com/ZhenlongYuan/MSP-MVS)
 
 </div>
 </div>
@@ -325,7 +325,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">EM Optimization</span> \\
 **Yuan Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
 
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [**Code**](https://github.com/ZhenlongYuan/SD-MVS)
+[**<strong>[Paper]</strong>**](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [**<strong>[Code]</strong>**](https://github.com/ZhenlongYuan/SD-MVS)
 
 </div>
 </div>
@@ -338,7 +338,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">3D Vision</span> \\
 **Yuan Z.**, Cao, J., Wang, Z., Li, Z.
 
-[**Paper**](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [**Code**](https://github.com/ZhenlongYuan/TSAR-MVS)
+[**<strong>[Paper]</strong>**](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [**<strong>[Code]</strong>**](https://github.com/ZhenlongYuan/TSAR-MVS)
 
 </div>
 </div>
