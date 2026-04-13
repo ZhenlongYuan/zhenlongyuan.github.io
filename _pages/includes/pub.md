@@ -74,6 +74,12 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+.paper-box-text {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
 .paper-box-text a {
   color: #1a1a1a;
   font-weight: 600;
@@ -112,20 +118,6 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
   color: #9C27B0;
 }
 
-/* Consistent vertical spacing between fields */
-.paper-tags-line  { margin-top: 6px; }
-.paper-author-line { margin-top: 6px; }
-.paper-links-line  { margin-top: 6px; font-size: 0.88em; }
-.paper-links-line a {
-  margin-right: 0.8em;
-  font-weight: 600;
-  text-decoration: none;
-  color: #1565C0;
-  transition: color 0.2s;
-}
-.paper-links-line a:hover { color: #0D47A1; text-decoration: underline; }
-.paper-abstract-line { margin-top: 6px; font-size: 0.88em; color: #555; line-height: 1.6; }
-
 /* Pill tags — matches about.md style */
 .paper-pill {
   display: inline-block;
@@ -142,6 +134,20 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 .paper-pill-green  { background-color: #e8f5e9; color: #2e7d32; }
 .paper-pill-teal   { background-color: #e0f7fa; color: #00838f; }
 .paper-pill-red    { background-color: #fce4ec; color: #880e4f; }
+
+/* Consistent field spacing */
+.paper-tags-line   { display: flex; flex-wrap: wrap; align-items: center; gap: 0; }
+.paper-author-line { font-size: 0.9em; color: #444; }
+.paper-links-line  { font-size: 0.88em; }
+.paper-links-line a {
+  margin-right: 0.8em;
+  font-weight: 700;
+  text-decoration: none;
+  color: #1565C0;
+  transition: color 0.2s;
+}
+.paper-links-line a:hover { color: #0D47A1; text-decoration: underline; }
+.paper-abstract-line { font-size: 0.88em; color: #555; line-height: 1.6; }
 </style>
 
 <div id="pub-section">
@@ -150,101 +156,114 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 <details open>
 <summary>📄 Technical Report <span class="badge-count">1</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Tech Report 2026</div><img src='images/LongCat-Next.png' alt="LongCat-Next" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://arxiv.org/abs/2603.27538)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa2; border-radius:15px; font-size:12px;">Native Multimodal</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Any-to-Any Generation</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Foundation Model</span>
-</span>
-<span class="paper-author-line">Meituan LongCat Team</span>
-<span class="paper-links-line">
-[**[Paper]**](https://arxiv.org/abs/2603.27538) [**[Code]**](https://github.com/meituan-longcat/LongCat-Next)
-</span>
-<span class="paper-abstract-line">LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and audio under a single autoregressive objective via discrete tokenization, achieving strong performance across multimodal benchmarks.</span>
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-preprint">Tech Report 2026</div>
+    <img src="images/longcat-next.png" alt="LongCat-Next" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2603.27538">LongCat-Next: Lexicalizing Modalities as Discrete Tokens</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-purple">Native Multimodal</span>
+      <span class="paper-pill paper-pill-orange">Any-to-Any Generation</span>
+      <span class="paper-pill paper-pill-blue">Foundation Model</span>
+    </p>
+    <p class="paper-author-line">Meituan LongCat Team</p>
+    <p class="paper-links-line">
+      <a href="https://arxiv.org/abs/2603.27538">[**[Paper]**]</a>
+      <a href="https://github.com/meituan-longcat/LongCat-Next">[**[Code]**]</a>
+    </p>
+    <p class="paper-abstract-line">LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and audio under a single autoregressive objective via discrete tokenization, achieving strong performance across multimodal benchmarks.</p>
+  </div>
 </div>
 
 </details>
 
 <!-- ====== Vision-Language Models & VLA ====== -->
 <details open>
-<summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
+<summary>🤖 Vision-Language Models &amp; VLA <span class="badge-count">4</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/WhatIfAgents.png' alt="What if Agents" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Vision-Language</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa2; border-radius:15px; font-size:12px;">Open-Vocabulary HOI</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Agentic Generation</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, [author list TBD]</span>
-<span class="paper-links-line">
-[**[Paper]**](https://arxiv.org/abs/0000.00000)
-</span>
-<span class="paper-abstract-line">What if Agents Could Imagine? reinforces open-vocabulary Human-Object Interaction comprehension through generative modeling.</span>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Tool-Using Agent</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa2; border-radius:15px; font-size:12px;">Multi-turn RL</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Zero-shot Video</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://arxiv.org/abs/2510.08480) [**[Code]**](https://github.com/AMAP-ML/Video-STAR)
-</span>
-<span class="paper-abstract-line">Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.</span>
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-preprint">Preprint</div>
+    <img src="images/ImagineAgent.png" alt="What if Agents" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/0000.00000">What if Agents Could Imagine?</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-blue">Vision-Language</span>
+      <span class="paper-pill paper-pill-purple">Open-Vocabulary HOI</span>
+      <span class="paper-pill paper-pill-orange">Agentic Generation</span>
+    </p>
+    <p class="paper-author-line">Yuan Z., Qu X., Tang J., Chen R., Sun L., Yu H., Qian C., Chu X., Li S., Zhou Y.</p>
+    <p class="paper-links-line">
+      <a href="https://arxiv.org/abs/0000.00000">[**[Paper]**]</a>
+    </p>
+    <p class="paper-abstract-line">What if Agents Could Imagine? reinforces open-vocabulary Human-Object Interaction comprehension through generative modeling.</p>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Multimodal Reasoning</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa2; border-radius:15px; font-size:12px;">Vision-Language-Action</span>
-</span>
-<span class="paper-author-line">**Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg)</span>
-<span class="paper-author-line">**Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://arxiv.org/abs/2509.01944v1) [**[Code]**](https://github.com/AMAP-ML/AutoDrive-R2)
-</span>
-<span class="paper-abstract-line">AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-Language-Action models in autonomous driving scenarios.</span>
-
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-conference">ICLR 2026</div>
+    <img src="images/VideoSTAR.png" alt="Video-STAR" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2510.08480">Video-STAR: Reinforcing Zero-shot Video Understanding with Tools</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-blue">Tool-Using Agent</span>
+      <span class="paper-pill paper-pill-purple">Multi-turn RL</span>
+      <span class="paper-pill paper-pill-orange">Zero-shot Video</span>
+    </p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.</p>
+    <p class="paper-links-line">
+      <a href="https://arxiv.org/abs/2510.08480">[**[Paper]**]</a>
+      <a href="https://github.com/AMAP-ML/Video-STAR">[**[Code]**]</a>
+    </p>
+    <p class="paper-abstract-line">Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.</p>
+  </div>
 </div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-conference">ICLR 2026</div>
+    <img src="images/AutoDrive-R2.png" alt="AutoDrive-R²" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-blue">Multimodal Reasoning</span>
+      <span class="paper-pill paper-pill-orange">Autonomous Driving</span>
+      <span class="paper-pill paper-pill-purple">Vision-Language-Action</span>
+    </p>
+    <p class="paper-author-line"><strong>Featured by</strong> <a href="https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg">AutoDrive Heart (自动驾驶之心)</a></p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.</p>
+    <p class="paper-links-line">
+      <a href="https://arxiv.org/abs/2509.01944v1">[**[Paper]**]</a>
+      <a href="https://github.com/AMAP-ML/AutoDrive-R2">[**[Code]**]</a>
+    </p>
+    <p class="paper-abstract-line">AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-Language-Action models in autonomous driving scenarios.</p>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Fast VLA</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa2; border-radius:15px; font-size:12px;">Real-time Inference</span>
-</span>
-<span class="paper-author-line">Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://arxiv.org/abs/2511.19912)
-</span>
-<span class="paper-abstract-line">Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.</span>
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-preprint">Preprint</div>
+    <img src="images/Reasoning-VLA.png" alt="Reasoning-VLA" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2511.19912">Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-orange">Autonomous Driving</span>
+      <span class="paper-pill paper-pill-blue">Fast VLA</span>
+      <span class="paper-pill paper-pill-purple">Real-time Inference</span>
+    </p>
+    <p class="paper-author-line">Zhang D.*, <strong>Yuan Z.*</strong>, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.</p>
+    <p class="paper-links-line">
+      <a href="https://arxiv.org/abs/2511.19912">[**[Paper]**]</a>
+    </p>
+    <p class="paper-abstract-line">Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.</p>
+  </div>
 </div>
 
 </details>
@@ -253,35 +272,39 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 <details open>
 <summary>🎨 Generative Foundation Model <span class="badge-count">2</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">CVPR 2026</div><img src='images/Q1.png' alt="ADE-CoT" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[ADE-CoT: Adaptive Diffusion Elicits Chain-of-Thought in Image Editing](https://openreview.net/forum?id=id747ZRjaL)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fce4ec; color:#880e4f; border-radius:15px; font-size:12px;">Diffusion Model</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e0f7fa; color:#00838f; border-radius:15px; font-size:12px;">Chain-of-Thought</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Image Editing</span>
-</span>
-<span class="paper-author-line">Qu X.\*, **Yuan Z.\***, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G., Xiong G., Cai Y.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://openreview.net/forum?id=id747ZRjaL)
-</span>
-
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-conference">CVPR 2026</div>
+    <img src="images/Q1.png" alt="ADE-CoT" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://openreview.net/forum?id=id747ZRjaL">ADE-CoT: Adaptive Diffusion Elicits Chain-of-Thought in Image Editing</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-red">Diffusion Model</span>
+      <span class="paper-pill paper-pill-teal">Chain-of-Thought</span>
+      <span class="paper-pill paper-pill-green">Image Editing</span>
+    </p>
+    <p class="paper-author-line">Qu X.*, <strong>Yuan Z.*</strong>, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G., Xiong G., Cai Y.</p>
+    <p class="paper-links-line">
+      <a href="https://openreview.net/forum?id=id747ZRjaL">[**[Paper]**]</a>
+    </p>
+  </div>
 </div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Degradation.png' alt="Recovering Degradations" width="100%"></div></div>
-<div class='paper-box-text'>
-
-Recovering Degradations with Generative Model: A Consistency-aware Distillation Network for Infrared and Visible Image Fusion
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Generation Model</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Image Fusion</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Infrared-Visible</span>
-</span>
-<span class="paper-author-line">Yu H.\*, **Yuan Z.\***, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.</span>
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-preprint">Preprint</div>
+    <img src="images/Degradation.png" alt="Recovering Degradations" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p>Recovering Degradations with Generative Model: A Consistency-aware Distillation Network for Infrared and Visible Image Fusion</p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-green">Generation Model</span>
+      <span class="paper-pill paper-pill-blue">Image Fusion</span>
+      <span class="paper-pill paper-pill-orange">Infrared-Visible</span>
+    </p>
+    <p class="paper-author-line">Yu H.*, <strong>Yuan Z.*</strong>, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.</p>
+  </div>
 </div>
 
 </details>
@@ -290,102 +313,118 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 <details open>
 <summary>📐 3D Vision <span class="badge-count">6</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">TCSVT 2025</div><img src='images/DVP-MVS++.png' alt="DVP-MVS++" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Multi-View Stereo</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">3D Reconstruction</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://arxiv.org/abs/2506.13215)
-</span>
-<span class="paper-abstract-line">DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and visibility prior modeling.</span>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">TCSVT 2025</div><img src='images/SED-MVS.png' alt="SED-MVS" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ieeexplore.ieee.org/document/11016951)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Segmentation-Driven</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Depth Estimation</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://ieeexplore.ieee.org/document/11016951)
-</span>
-<span class="paper-abstract-line">SED-MVS introduces segmentation-driven and edge-aligned deformation for robust multi-view stereo with depth restoration.</span>
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-journal">TCSVT 2025</div>
+    <img src="images/DVP-MVS++.png" alt="DVP-MVS++" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2506.13215">DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-green">Multi-View Stereo</span>
+      <span class="paper-pill paper-pill-blue">3D Reconstruction</span>
+    </p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.</p>
+    <p class="paper-links-line">
+      <a href="https://arxiv.org/abs/2506.13215">[**[Paper]**]</a>
+    </p>
+    <p class="paper-abstract-line">DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and visibility prior modeling.</p>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2025</div><img src='images/DVP-MVS.png' alt="DVP-MVS" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Visibility Prior</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">3D Vision</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [**[Code]**](https://github.com/ZhenlongYuan/DVP-MVS)
-</span>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2025</div><img src='images/MSP-MVS2.png' alt="MSP-MVS" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Segmentation Prior</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Multi-View</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [**[Code]**](https://github.com/ZhenlongYuan/MSP-MVS)
-</span>
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-journal">TCSVT 2025</div>
+    <img src="images/SED-MVS.png" alt="SED-MVS" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://ieeexplore.ieee.org/document/11016951">SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-green">Segmentation-Driven</span>
+      <span class="paper-pill paper-pill-blue">Depth Estimation</span>
+    </p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.</p>
+    <p class="paper-links-line">
+      <a href="https://ieeexplore.ieee.org/document/11016951">[**[Paper]**]</a>
+    </p>
+    <p class="paper-abstract-line">SED-MVS introduces segmentation-driven and edge-aligned deformation for robust multi-view stereo with depth restoration.</p>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2024</div><img src='images/SD-MVS.png' alt="SD-MVS" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Spherical Refinement</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">EM Optimization</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [**[Code]**](https://github.com/ZhenlongYuan/SD-MVS)
-</span>
-
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-conference">AAAI 2025</div>
+    <img src="images/DVP-MVS.png" alt="DVP-MVS" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33056">DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-green">Visibility Prior</span>
+      <span class="paper-pill paper-pill-blue">3D Vision</span>
+    </p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.</p>
+    <p class="paper-links-line">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33056">[**[Paper]**]</a>
+      <a href="https://github.com/ZhenlongYuan/DVP-MVS">[**[Code]**]</a>
+    </p>
+  </div>
 </div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-conference">AAAI 2025</div>
+    <img src="images/MSP-MVS2.png" alt="MSP-MVS" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33057">MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-green">Segmentation Prior</span>
+      <span class="paper-pill paper-pill-blue">Multi-View</span>
+    </p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.</p>
+    <p class="paper-links-line">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33057">[**[Paper]**]</a>
+      <a href="https://github.com/ZhenlongYuan/MSP-MVS">[**[Code]**]</a>
+    </p>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">PR 2024</div><img src='images/TSAR-MVS.png' alt="TSAR-MVS" width="100%"></div></div>
-<div class='paper-box-text'>
-
-[TSAR-MVS: Textureless-Aware Segmentation and Correlative Refinement Guided Multi-View Stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
-<span class="paper-tags-line">
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Textureless-Aware</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">3D Vision</span>
-</span>
-<span class="paper-author-line">**Yuan Z.**, Cao, J., Wang, Z., Li, Z.</span>
-<span class="paper-links-line">
-[**[Paper]**](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [**[Code]**](https://github.com/ZhenlongYuan/TSAR-MVS)
-</span>
-
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-conference">AAAI 2024</div>
+    <img src="images/SD-MVS.png" alt="SD-MVS" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/28512">SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-green">Spherical Refinement</span>
+      <span class="paper-pill paper-pill-blue">EM Optimization</span>
+    </p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Cao, J., Li, Z., Jiang, H., Wang, Z.</p>
+    <p class="paper-links-line">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28512">[**[Paper]**]</a>
+      <a href="https://github.com/ZhenlongYuan/SD-MVS">[**[Code]**]</a>
+    </p>
+  </div>
 </div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge-journal">PR 2024</div>
+    <img src="images/TSAR-MVS.png" alt="TSAR-MVS" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0031320324003169">TSAR-MVS: Textureless-Aware Segmentation and Correlative Refinement Guided Multi-View Stereo</a></p>
+    <p class="paper-tags-line">
+      <span class="paper-pill paper-pill-green">Textureless-Aware</span>
+      <span class="paper-pill paper-pill-blue">3D Vision</span>
+    </p>
+    <p class="paper-author-line"><strong>Yuan Z.</strong>, Cao, J., Wang, Z., Li, Z.</p>
+    <p class="paper-links-line">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0031320324003169">[**[Paper]**]</a>
+      <a href="https://github.com/ZhenlongYuan/TSAR-MVS">[**[Code]**]</a>
+    </p>
+  </div>
 </div>
 
 </details>
