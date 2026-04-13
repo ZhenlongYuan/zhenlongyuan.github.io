@@ -138,7 +138,7 @@
   <img src="/images/longcat.png" alt="LongCat Logo" width="60"/>
   <div>
     <p class="company-name">LongCat Team, Meituan</p>
-    <p class="position-info">Research Intern, M173A (3A Base Model) Team</p>
+    <p class="position-info">Research Intern, M17 3A Base Model Team</p>
     <p class="location">📍 Beijing · Feb 2026 - Present</p>
   </div>
 </div>
