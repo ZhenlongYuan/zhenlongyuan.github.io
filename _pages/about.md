@@ -28,10 +28,6 @@ redirect_from:
 {% include_relative includes/experience.md %}
 <br>
 
-<span class='anchor' id='-technical-skills'></span>
-{% include_relative includes/skills.md %}
-<br>
-
 <span class='anchor' id='-publications'></span>
 {% include_relative includes/pub.md %}
 <br>

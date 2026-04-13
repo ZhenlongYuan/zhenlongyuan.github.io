@@ -119,26 +119,24 @@
 
 <div class="exp-item">
 <div class="company-header">
-  <img src="/images/DreamX.png" alt="DreamView Logo" width="60"/>
+  <img src="/images/DreamX.png" alt="DreamX Logo" width="60"/>
   <div>
-    <p class="company-name">DreamView, Meituan</p>
-    <p class="position-info">Research Intern, M173A (3A Base Model) Team</p>
+    <p class="company-name">DreamX, Alibaba</p>
+    <p class="position-info">Research Intern</p>
     <p class="location">📍 Beijing · Feb 2026 - Present</p>
   </div>
 </div>
 <ul class="exp-details">
-  <li>Research focus: Vision-Language-Action (VLA) models for autonomous driving</li>
-  <li>Developed <strong>LongCat-Next</strong>, a next-generation long-context video understanding system for autonomous driving</li>
-  <li>Contributing to the M173A foundation model research and development</li>
+  <li>Research focus: Vision-Language Models, Foundation Models, Agentic AI</li>
 </ul>
 </div>
 
 <div class="exp-item">
 <div class="company-header">
-  <img src="/images/DreamX.png" alt="DreamView Logo" width="60"/>
+  <img src="/images/Meituan.png" alt="Meituan Logo" width="60"/>
   <div>
-    <p class="company-name">DreamView, Meituan</p>
-    <p class="position-info">Research Intern, Autonomous Driving Lab</p>
+    <p class="company-name">LongCat Team, Meituan</p>
+    <p class="position-info">Research Intern</p>
     <p class="location">📍 Beijing · 2021 - Feb 2026</p>
   </div>
 </div>

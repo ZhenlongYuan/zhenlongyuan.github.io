@@ -44,10 +44,6 @@
   padding: 0.55em 1.3em;
 }
 
-.keyword[data-weight="3"] {
-  font-size: 0.95em;
-}
-
 .keyword:hover {
   transform: translateY(-3px) scale(1.05);
   box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
@@ -57,12 +53,11 @@
 <script>
 window.addEventListener('load', function() {
   const coreKeywords = [
-    { keyword: '🔬 Vision-Language Model', weight: 5 },
-    { keyword: '🧠 Large Language Model', weight: 5 },
-    { keyword: '🤖 Embodied Agents', weight: 5 },
-    { keyword: '📐 3D Vision', weight: 4 },
-    { keyword: '🚀 Foundation Models', weight: 4 },
-    { keyword: '🏥 AI for Science', weight: 3 }
+    { keyword: '🤖 Vision-Language Model', weight: 5 },
+    { keyword: '🧠 Agentic Reinforcement Learning', weight: 5 },
+    { keyword: '🦾 Embodied Agents', weight: 5 },
+    { keyword: '🚀 Foundation Model', weight: 5 },
+    { keyword: '🏥 AI for Science', weight: 5 }
   ];
 
   function generateKeywordCloud() {

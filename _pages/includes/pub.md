@@ -146,7 +146,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 .paper-tag.vision { background: linear-gradient(135deg, #e8f5e9, #c8e6c9); color: #2e7d32; }
 .paper-tag.driving { background: linear-gradient(135deg, #fff3e0, #ffe0b2); color: #e65100; }
 .paper-tag.reasoning { background: linear-gradient(135deg, #e0f7fa, #b2ebf2); color: #00838f; }
-.paper-tag.gen { background: linear-gradient(135deg, #fce4ec, #f8bbd0); color: #c62828; }
+.paper-tag.diffusion { background: linear-gradient(135deg, #fce4ec, #f48fb1); color: #880e4f; }
 .paper-tag.mvs { background: linear-gradient(135deg, #f1f8e9, #dcedc8); color: #558b2f; }
 </style>
 
@@ -154,22 +154,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 
 <!-- ====== Vision-Language Models & VLA ====== -->
 <details open>
-<summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">CVPR 2026</div><img src='images/Q1.png' alt="ADE-CoT" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ADE-CoT: ...](https://openreview.net/forum?id=id747ZRjaL) <!-- 请替换为完整标题 -->
-<span class="paper-tags">
-  <span class="paper-tag reasoning">⚡ Reasoning</span>
-  <span class="paper-tag driving">🚗 Autonomous Driving</span>
-</span>
-**Yuan Z.**, et al.
-
-[[Paper]](https://openreview.net/forum?id=id747ZRjaL)
-
-</div>
-</div>
+<summary>🤖 Vision-Language Models & VLA <span class="badge-count">3</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -219,6 +204,27 @@ Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 [[Paper]](https://arxiv.org/abs/2511.19912)
 
 Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
+
+</div>
+</div>
+
+</details>
+
+<!-- ====== Diffusion Models ====== -->
+<details open>
+<summary>✨ Diffusion Models <span class="badge-count">1</span></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">CVPR 2026</div><img src='images/Q1.png' alt="ADE-CoT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ADE-CoT: ...](https://openreview.net/forum?id=id747ZRjaL)
+<span class="paper-tags">
+  <span class="paper-tag diffusion">✨ Diffusion Model</span>
+  <span class="paper-tag reasoning">⚡ Chain-of-Thought</span>
+</span>
+**Yuan Z.**, et al.
+
+[[Paper]](https://openreview.net/forum?id=id747ZRjaL)
 
 </div>
 </div>
@@ -322,37 +328,6 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 
 </div>
 </div>
-
-</details>
-
-<!-- ====== All Publications ====== -->
-<details open>
-<summary>📖 All Publications</summary>
-
-- ``ICLR 2026`` [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools.](https://arxiv.org/abs/2510.08480) **Z Yuan**, X Qu, C Qian, et al.
-- ``ICLR 2026`` [AutoDrive-R2: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving.](https://arxiv.org/pdf/2509.01944) **Z Yuan**, J Tang, J Luo, et al.
-- ``Preprint`` [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation.]() **Z Yuan**, X Qu, J Tang, et al.
-- ``Preprint`` [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing.]() X Qu, **Z Yuan**, et al.
-- ``Preprint`` [Recovering Degradations with Generative Model: A Consistency-aware Distillation Network for Infrared and Visible Image Fusion.]() H Yu, **Z Yuan**, Y Bai, et al.
-- ``Preprint`` [Pure Vision Language Action (VLA) Models: A Comprehensive Survey.](https://arxiv.org/pdf/2509.19012) D Zhang, J Sun, C Hu, X Wu, **Z Yuan**, et al.
-- ``Preprint`` [AT-Drive: Exploiting Adversarial Transfer for End-to-end Autonomous Driving.]() D Zhang, **Z Yuan**, K Huang, et al.
-- ``Preprint`` [ADDI: A Simplified E2E Autonomous Driving Model with Distinct Experts and Implicit Interactions.]() D Zhang, **Z Yuan**, Chen Y., et al.
-- ``IEEE JBHI 2025`` [EMPOWER: Evolutionary Medical Prompt Optimization With Reinforcement Learning.](https://arxiv.org/pdf/2508.17703) Y Chen, Y He, J Yang, D Zhang, **Z Yuan**, et al.
-- ``IEEE TCSVT 2025`` [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo.](https://arxiv.org/pdf/2506.13215) **Z Yuan**, D Zhang, Z Li, et al.
-- ``NeurIPS 2025`` [InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection.]() J Luo, W Ren, Q Zheng, Y Zhang, **Z Yuan**, et al.
-- ``IEEE TCSVT 2025`` [Learning multi-view stereo with geometry-aware prior.](https://ieeexplore.ieee.org/abstract/document/11029471) K Chen, **Z Yuan**, H Xiao, T Mao, et al.
-- ``HCII 2025`` [MR-IntelliAssist: A World Cognition Agent Enabling Adaptive Human-AI Symbiosis in Industry 4.0.](https://link.springer.com/chapter/10.1007/978-3-031-93429-2_11), C Liu, **Z Yuan**, Y Wang, Y Yin, et al.
-- ``IEEE TCSVT 2025`` [SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint.](https://arxiv.org/pdf/2503.13721), **Z Yuan**, Z Yang, Y Cai, et al.
-- ``AAAI 2025`` [Dual-level precision edges guided multi-view stereo with accurate planarization.](https://ojs.aaai.org/index.php/AAAI/article/view/32208/34363), K Chen, **Z Yuan**, T Mao, et al.
-- ``AAAI 2025`` [Mapexpert: Online hd map construction with simple and efficient sparse map element expert.](https://ojs.aaai.org/index.php/AAAI/article/download/33616/35771), D Zhang, D Chen, P Zhi, Y Chen, **Z Yuan**, et al.
-- ``AAAI 2025`` [DVP-MVS: Synergize depth-edge and visibility prior for multi-view stereo.](https://ojs.aaai.org/index.php/AAAI/article/view/33056/35211), **Z Yuan**, J Luo, F Shen, et al.
-- ``AAAI 2025`` [MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo.](https://ojs.aaai.org/index.php/AAAI/article/download/33057/35212), **Z Yuan**, C Liu, F Shen, et al.
-- ``IEEE TCSVT 2025`` [Light4gs: Lightweight compact 4d gaussian splatting generation via context model.](https://arxiv.org/pdf/2503.13948?), M Liu, Q Yang, H Huang, W Huang, **Z Yuan**, et al.
-- ``Preprint`` [Adaptive label correction for robust medical image segmentation with noisy labels.](https://arxiv.org/pdf/2503.12218), C Qian, K Han, J Ding, L Liu, C Lyu, **Z Yuan**, et al.
-- ``Preprint`` [Dyncim: Dynamic curriculum for imbalanced multimodal learning.](https://arxiv.org/pdf/2503.06456), C Qian, K Han, J Wang, **Z Yuan**, et al.
-- ``PR 2025`` [Nerf-based polarimetric multi-view stereo.](https://www.sciencedirect.com/science/article/pii/S0031320324007878), J Cao, **Z Yuan**, T Mao, et al.
-- ``PR 2024`` [Tsar-mvs: Textureless-aware segmentation and correlative refinement guided multi-view stereo.](https://arxiv.org/pdf/2308.09990), **Z Yuan**, J Cao, Z Wang, et al.
-- ``AAAI 2024`` [Sd-mvs: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization.](https://ojs.aaai.org/index.php/AAAI/article/view/28512/28998), **Z Yuan**, J Cao, Z Li, et al.
 
 </details>
 
