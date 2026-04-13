@@ -269,7 +269,7 @@ Yu H.\*, **Yuan Z.\***, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">3D Reconstruction</span> \\
 **Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.
 
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2506.13215)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2506.13215) [**<strong>[Code]</strong>**](https://github.com/ZhenlongYuan/DVP-MVS)
 
 DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and visibility prior modeling.
 
@@ -284,7 +284,7 @@ DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and v
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Depth Estimation</span> \\
 **Yuan Z.**, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
-[**<strong>[Paper]</strong>**](https://ieeexplore.ieee.org/document/11016951)
+[**<strong>[Paper]</strong>**](https://ieeexplore.ieee.org/document/11016951) [**<strong>[Code]</strong>**](https://github.com/ZhenlongYuan/SD-MVS)
 
 SED-MVS introduces segmentation-driven and edge-aligned deformation for robust multi-view stereo with depth restoration.
 
