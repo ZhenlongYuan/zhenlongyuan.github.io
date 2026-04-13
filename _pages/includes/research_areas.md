@@ -59,12 +59,13 @@
 window.addEventListener('load', function() {
   const coreKeywords = [
     { keyword: '🤖 Vision-Language Model', weight: 5 },
+    { keyword: '🤖 Vision-Language Action', weight: 4 },
     { keyword: '🧠 Agentic Reinforcement Learning', weight: 5 },
-    { keyword: '🗺️ Spatial Intelligence', weight: 5 },
     { keyword: '🚀 Foundation Model', weight: 3 },
     { keyword: '🏥 AI for Science', weight: 3 },
     { keyword: '🦾 Embodied Agents', weight: 3 },
     { keyword: '👁️ 3D Vision', weight: 3 },
+    { keyword: '🗺️ Spatial Intelligence', weight: 3 },
     { keyword: '🛡️ Safety', weight: 3 }
   ];
 

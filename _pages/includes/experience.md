@@ -121,7 +121,7 @@
 <div class="company-header">
   <img src="/images/Alibaba.png" alt="DreamX Logo" width="60"/>
   <div>
-    <p class="company-name">DreamX Team, Alibaba</p>
+    <p class="company-name">DreamX-World Team, Alibaba</p>
     <p class="position-info">Research Intern</p>
     <p class="location">📍 Beijing · Jun 2025 - Jan 2026</p>
   </div>
