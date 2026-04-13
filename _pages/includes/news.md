@@ -74,7 +74,7 @@
 <ul class="news-list">
 
 <li class="news-item">
-  <span class="news-date">2026.02</span>
+  <span class="news-date">2025.06</span>
   <span class="news-text">💼 Joined <strong>LongCat Team, Meituan</strong> as a Research Intern, working on the <strong>M173A (3A Base Model)</strong> team.</span>
 </li>
 

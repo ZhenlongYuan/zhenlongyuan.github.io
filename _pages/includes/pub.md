@@ -122,10 +122,10 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <span class="paper-tags"><span class="paper-tag tool">🔧 Tool-Using Agent</span><span class="paper-tag rl">🔄 Multi-turn Agentic RL</span></span> \\
+[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <span class="paper-tags"><span class="paper-tag tool">🔧 Tool-Using</span><span class="paper-tag rl">🔄 Multi-turn RL</span></span> \\
 **Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
 
-[**Paper**](https://arxiv.org/abs/2510.08480) [**Code**](https://github.com/AMAP-ML/Video-STAR)
+[Paper](https://arxiv.org/abs/2510.08480) [Code](https://github.com/AMAP-ML/Video-STAR)
 
 Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
 
@@ -139,7 +139,7 @@ Video-STAR proposes a novel framework that reinforces zero-shot video understand
 **Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg) \\
 **Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.
 
-[**Paper**](https://arxiv.org/abs/2509.01944v1) [**Code**](https://github.com/AMAP-ML/AutoDrive-R2)
+[Paper](https://arxiv.org/abs/2509.01944v1) [Code](https://github.com/AMAP-ML/AutoDrive-R2)
 
 AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-Language-Action models in autonomous driving scenarios.
 
@@ -152,7 +152,7 @@ AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-La
 [Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912) <span class="paper-tags"><span class="paper-tag driving">🚗 Autonomous Driving</span><span class="paper-tag reasoning">⚡ Fast VLA</span></span> \\
 Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 
-[**Paper**](https://arxiv.org/abs/2511.19912)
+[Paper](https://arxiv.org/abs/2511.19912)
 
 Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
 
@@ -171,7 +171,7 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
 [ADE-CoT: Adaptive Diffusion Elicits Chain-of-Thought in Image Editing](https://openreview.net/forum?id=id747ZRjaL) <span class="paper-tags"><span class="paper-tag diffusion">✨ Diffusion Model</span><span class="paper-tag reasoning">⚡ Chain-of-Thought</span><span class="paper-tag tool">🖼️ Image Editing</span></span> \\
 Qu X.\*, **Yuan Z.\***, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X., Gou G., Xiong G., Cai Y.
 
-[**Paper**](https://openreview.net/forum?id=id747ZRjaL)
+[Paper](https://openreview.net/forum?id=id747ZRjaL)
 
 </div>
 </div>
@@ -197,7 +197,7 @@ Yu H.\*, **Yuan Z.\***, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
 [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215) <span class="paper-tags"><span class="paper-tag mvs">📷 Multi-View Stereo</span><span class="paper-tag vision">👁️ 3D Reconstruction</span></span> \\
 **Yuan Z.**, Zhang, D., Li, Z., Qian, C., Chen, J., Chen, Y., Chen K., Mao T., Li Z., Jiang H., Wang, Z.
 
-[**Paper**](https://arxiv.org/abs/2506.13215)
+[Paper](https://arxiv.org/abs/2506.13215)
 
 DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and visibility prior modeling.
 
@@ -210,7 +210,7 @@ DVP-MVS++ advances multi-view stereo through synergistic depth-normal-edge and v
 [SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ieeexplore.ieee.org/document/11016951) <span class="paper-tags"><span class="paper-tag mvs">📷 Segmentation-Driven</span><span class="paper-tag vision">👁️ Depth Estimation</span></span> \\
 **Yuan Z.**, Yang, Z., Cai, Y., Wu, K., Liu, M., Zhang, D., Jiang H, Li Z., Wang, Z.
 
-[**Paper**](https://ieeexplore.ieee.org/document/11016951)
+[Paper](https://ieeexplore.ieee.org/document/11016951)
 
 SED-MVS introduces segmentation-driven and edge-aligned deformation for robust multi-view stereo with depth restoration.
 
@@ -223,7 +223,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 [DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056) <span class="paper-tags"><span class="paper-tag mvs">📷 Visibility Prior</span><span class="paper-tag vision">👁️ 3D Vision</span></span> \\
 **Yuan Z.**, Luo, J., Shen, F., Li, Z., Liu, C., Mao, T., Wang, Z.
 
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [**Code**](https://github.com/ZhenlongYuan/DVP-MVS)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33056) [Code](https://github.com/ZhenlongYuan/DVP-MVS)
 
 </div>
 </div>
@@ -234,7 +234,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 [MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057) <span class="paper-tags"><span class="paper-tag mvs">📷 Segmentation Prior</span><span class="paper-tag vision">👁️ Multi-View</span></span> \\
 **Yuan Z.**, Liu, C., Shen, F., Li, Z., Luo, J., Mao, T., Wang, Z.
 
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [**Code**](https://github.com/ZhenlongYuan/MSP-MVS)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33057) [Code](https://github.com/ZhenlongYuan/MSP-MVS)
 
 </div>
 </div>
@@ -245,7 +245,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 [SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28512) <span class="paper-tags"><span class="paper-tag mvs">📷 Spherical Refinement</span><span class="paper-tag vision">👁️ EM Optimization</span></span> \\
 **Yuan Z.**, Cao, J., Li, Z., Jiang, H., Wang, Z.
 
-[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [**Code**](https://github.com/ZhenlongYuan/SD-MVS)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28512) [Code](https://github.com/ZhenlongYuan/SD-MVS)
 
 </div>
 </div>
@@ -256,7 +256,7 @@ SED-MVS introduces segmentation-driven and edge-aligned deformation for robust m
 [TSAR-MVS: Textureless-Aware Segmentation and Correlative Refinement Guided Multi-View Stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169) <span class="paper-tags"><span class="paper-tag mvs">📷 Textureless-Aware</span><span class="paper-tag vision">👁️ 3D Vision</span></span> \\
 **Yuan Z.**, Cao, J., Wang, Z., Li, Z.
 
-[**Paper**](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [**Code**](https://github.com/ZhenlongYuan/TSAR-MVS)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324003169) [Code](https://github.com/ZhenlongYuan/TSAR-MVS)
 
 </div>
 </div>
