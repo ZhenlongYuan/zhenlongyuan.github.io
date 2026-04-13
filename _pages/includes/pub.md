@@ -151,7 +151,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 <summary>📄 Technical Report <span class="badge-count">1</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Tech Report 2026</div><img src='images/LongCat-Next.png' alt="LongCat-Next" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [LongCat-Next: Lexicalizing Modalities as Discrete Tokens](https://arxiv.org/abs/2603.27538)
 <span class="paper-tags-line">
@@ -175,7 +175,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 <summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/WhatIfAgents.png' alt="What if Agents" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000)
 <span class="paper-tags-line">
@@ -193,7 +193,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480)
 <span class="paper-tags-line">
@@ -211,7 +211,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1)
 <span class="paper-tags-line">
@@ -230,7 +230,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912)
 <span class="paper-tags-line">
@@ -254,7 +254,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 <summary>🎨 Generative Foundation Model <span class="badge-count">2</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">CVPR 2026</div><img src='images/Q1.png' alt="ADE-CoT" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [ADE-CoT: Adaptive Diffusion Elicits Chain-of-Thought in Image Editing](https://openreview.net/forum?id=id747ZRjaL)
 <span class="paper-tags-line">
@@ -271,7 +271,7 @@ For a complete list of publications, please visit my [Google Scholar profile](ht
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Degradation.png' alt="Recovering Degradations" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 Recovering Degradations with Generative Model: A Consistency-aware Distillation Network for Infrared and Visible Image Fusion
 <span class="paper-tags-line">
@@ -291,7 +291,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 <summary>📐 3D Vision <span class="badge-count">6</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">TCSVT 2025</div><img src='images/DVP-MVS++.png' alt="DVP-MVS++" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [DVP-MVS++: Synergize Depth-Normal-Edge and Harmonized Visibility Prior for Multi-View Stereo](https://arxiv.org/abs/2506.13215)
 <span class="paper-tags-line">
@@ -308,7 +308,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">TCSVT 2025</div><img src='images/SED-MVS.png' alt="SED-MVS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint](https://ieeexplore.ieee.org/document/11016951)
 <span class="paper-tags-line">
@@ -325,7 +325,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2025</div><img src='images/DVP-MVS.png' alt="DVP-MVS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33056)
 <span class="paper-tags-line">
@@ -341,7 +341,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2025</div><img src='images/MSP-MVS2.png' alt="MSP-MVS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [MSP-MVS: Multi-granularity segmentation prior guided multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/33057)
 <span class="paper-tags-line">
@@ -357,7 +357,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">AAAI 2024</div><img src='images/SD-MVS.png' alt="SD-MVS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [SD-MVS: Segmentation-driven deformation multi-view stereo with spherical refinement and em optimization](https://ojs.aaai.org/index.php/AAAI/article/view/28512)
 <span class="paper-tags-line">
@@ -373,7 +373,7 @@ Recovering Degradations with Generative Model: A Consistency-aware Distillation 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-journal">PR 2024</div><img src='images/TSAR-MVS.png' alt="TSAR-MVS" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text'>
 
 [TSAR-MVS: Textureless-Aware Segmentation and Correlative Refinement Guided Multi-View Stereo](https://www.sciencedirect.com/science/article/pii/S0031320324003169)
 <span class="paper-tags-line">
