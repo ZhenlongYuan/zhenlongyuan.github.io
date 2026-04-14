@@ -158,22 +158,6 @@ LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and a
 <details open>
 <summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/ImagineAgent.png' alt="What if Agents" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000) <br>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Vision-Language</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Open-Vocabulary HOI</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Agentic Generation</span> \\
-**Yuan Z.**, Qu X., Tang J., Chen R., Sun L., Chen R., Yu H., Qian C., Chu X., Li S., Zhou Y.
-
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/0000.00000)
-
-What if Agents Could Imagine? reinforces open-vocabulary Human-Object Interaction comprehension through generative modeling.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
