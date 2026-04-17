@@ -122,7 +122,7 @@
   <div>
     <p class="school-name">Institute of Computing Technology, Chinese Academy of Sciences</p>
     <p class="degree-info">Ph.D. in Information and Communication Engineering</p>
-    <p class="location">📍 Beijing · Graduated</p>
+    <p class="location">📍 Beijing · Sep 2021 - Present</p>
   </div>
 </div>
 <ul class="edu-details">
