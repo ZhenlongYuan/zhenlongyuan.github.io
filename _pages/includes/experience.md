@@ -143,7 +143,7 @@
   </div>
 </div>
 <ul class="exp-details">
-  <li>Research and developed <strong>LongCat-Next</strong>, a technical report on next-generation long-context video understanding for autonomous driving</li>
+  <li><strong>LongCat-Next</strong>, a native multimodal model that processes text, vision, and audio under a single autoregressive objective with minimal inductive bias beyond the language paradigm.</li>
   <li>Contributing to the M173A foundation model research and development</li>
 </ul>
 </div>
