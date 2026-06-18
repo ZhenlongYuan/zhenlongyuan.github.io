@@ -36,14 +36,6 @@ redirect_from:
 {% include_relative includes/honers.md %}
 <br>
 
-<span class='anchor' id='-talks-and-teaching'></span>
-{% include_relative includes/others.md %}
-<br>
-
-<span class='anchor' id='-hobbies-and-interests'></span>
-{% include_relative includes/hobbies.md %}
-<br>
-
 <div style="height:20px;">
 </div>
 
