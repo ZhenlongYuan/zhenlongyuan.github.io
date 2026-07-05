@@ -43,7 +43,7 @@ redirect_from:
 <div id="contact-section">
 <div class="connect-box">
   <h3>📬 Let's Connect</h3>
-  <p>📫 Email: <a href="mailto:yuanzhenlong21b@ict.ac.cn">yuanzhenlong21b@ict.ac.cn</a></p>
+  <p>📫 Email: <a href="mailto:yuanzhenlong.yzl@gmail.com">yuanzhenlong.yzl@gmail.com</a></p>
   <p>💼 I'm eager to connect with fellow AI researchers and enthusiasts passionate about advancing multimodal AI and embodied intelligence.</p>
   <p>📍 Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China</p>
 </div>
