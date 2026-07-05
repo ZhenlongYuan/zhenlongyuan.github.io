@@ -8,5 +8,5 @@ My research interests include Vision-Language Model, Agentic Reinforcement Learn
 
 <div style="border: 2px solid #7b1fa2; border-radius: 8px; padding: 12px 16px; background-color: #f3e5f5; margin: 1em 0;">
 <span style="color:#7b1fa2; font-weight: bold;">I am always open — whether it's collaboration, discussion, or just to say hi, feel free to reach out!</span>
-<span style="color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: yuanzhenlong21b@ict.ac.cn</span>
+<span style="color: #7b1fa2; font-size: 0.85em; margin-left: 8px;">Email: yuanzhenlong.yzl@gmail.com</span>
 </div>
