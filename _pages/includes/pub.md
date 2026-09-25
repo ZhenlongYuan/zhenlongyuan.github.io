@@ -156,7 +156,7 @@ LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and a
 
 <!-- ====== Agent ====== -->
 <details open>
-<summary>🚀 Agent <span class="badge-count">4</span></summary>
+<summary>🚀 Agent <span class="badge-count">1</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div>< img src='images/ImagineAgent3.png' alt="ImagineAgent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -178,7 +178,7 @@ ImagineAgent: What if Agents Could Imagine? Reinforcing OV-HOI Comprehension thr
 
 <!-- ====== Vision-Language Models (VLM) ====== -->
 <details open>
-<summary>🧠 Vision-Language Models (VLM) <span class="badge-count">4</span></summary>
+<summary>🧠 Vision-Language Models (VLM) <span class="badge-count">1</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -200,7 +200,7 @@ Video-STAR proposes a novel framework that reinforces zero-shot video understand
 
 <!-- ====== Vision-Language Action (VLA)====== -->
 <details open>
-<summary>🤖 Vision-Language Action (VLA)<span class="badge-count">4</span></summary>
+<summary>🤖 Vision-Language Action (VLA)<span class="badge-count">3</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
