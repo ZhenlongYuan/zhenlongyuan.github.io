@@ -154,80 +154,85 @@ LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and a
 
 </details>
 
-<!-- ====== Vision-Language Models & VLA ====== -->
+<!-- ====== Agent ====== -->
 <details open>
-<summary>🤖 Vision-Language Models & VLA <span class="badge-count">4</span></summary>
+<summary>🚀 Agent <span class="badge-count">4</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div>< img src='images/ImagineAgent.png' alt="What if Agents" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <br>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Tool-Using Agent</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Multi-turn RL</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Zero-shot Video</span> \\
-**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
+[ImagineAgent: What if Agents Could Imagine? Reinforcing OV-HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Vision-Language</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Open-Vocabulary HOI</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Agentic Generation</span> \\
+**Yuan Z.**, Qu X., Tang J., Chen R., Sun L., Chen R., Yu H., Qian C., Chu X., Li S., Zhou Y.
 
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2510.08480) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/Video-STAR)
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/0000.00000)
 
-Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <br>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Tool-Using Agent</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Multi-turn RL</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Zero-shot Video</span> \\
-**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
-
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2510.08480) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/Video-STAR)
-
-Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1) <br>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Multimodal Reasoning</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Vision-Language-Action</span> \\
-**Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg) \\
-**Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.
-
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2509.01944v1) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/AutoDrive-R2)
-
-AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-Language-Action models in autonomous driving scenarios.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICML 2026</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://openreview.net/forum?id=c4iSIrb6Iv) <br>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Fast VLA</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Real-time Inference</span> \\
-Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
-
-[**<strong>[Paper]</strong>**](https://openreview.net/forum?id=c4iSIrb6Iv)
-
-Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
+ImagineAgent: What if Agents Could Imagine? Reinforcing OV-HOI Comprehension through Generation
 
 </div>
 </div>
 
 </details>
 
-<!-- ====== Vision-Language Action (VLA) ====== -->
+<!-- ====== Vision-Language Models (VLM) ====== -->
 <details open>
-<summary>🤖 Vision-Language Action (VLA) <span class="badge-count">4</span></summary>
+<summary>🤖 Vision-Language Models (VLM) <span class="badge-count">4</span></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div>< img src='images/ImagineAgent.png' alt="What if Agents" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ImagineAgent: What if Agents Could Imagine? Reinforcing OV-HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Vision-Language</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Open-Vocabulary HOI</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Agentic Generation</span> \\
+**Yuan Z.**, Qu X., Tang J., Chen R., Sun L., Chen R., Yu H., Qian C., Chu X., Li S., Zhou Y.
+
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/0000.00000)
+
+What if Agents Could Imagine? reinforces open-vocabulary Human-Object Interaction comprehension through generative modeling.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Tool-Using Agent</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Multi-turn RL</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Zero-shot Video</span> \\
+**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
+
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2510.08480) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/Video-STAR)
+
+Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Tool-Using Agent</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Multi-turn RL</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Zero-shot Video</span> \\
+**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
+
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2510.08480) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/Video-STAR)
+
+Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
+
+</div>
+</div>
+
+</details>
+
+<!-- ====== Vision-Language Action (VLA) & Embodied Intelligence ====== -->
+<details open>
+<summary>🤖 Vision-Language Action (VLA) & Embodied Intelligence <span class="badge-count">4</span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
