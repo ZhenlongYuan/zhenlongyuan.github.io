@@ -158,7 +158,7 @@ LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and a
 <details open>
 <summary>🚀 Agent <span class="badge-count">1</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div>< img src='images/ImagineAgent3.png' alt="ImagineAgent" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">NIPS 206</div><img src='images/ImagineAgent3.png' alt="ImagineAgent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ImagineAgent: What if Agents Could Imagine? Reinforcing OV-HOI Comprehension through Generation](https://arxiv.org/abs/0000.00000) <br>
