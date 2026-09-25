@@ -74,6 +74,11 @@
 <ul class="news-list">
 
 <li class="news-item">
+  <span class="news-date">2026.09</span>
+  <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2602.11499">Imagine-Agent</a> and <a href="https://openreview.net/forum?id=XQr8N3Wv5o#discussion">Bridge-AD</a> have been <strong>Accepted</strong> by <strong>NIPS 2026</strong>.</span>
+</li>
+
+<li class="news-item">
   <span class="news-date">2026.05</span>
   <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2511.19912">Reasoning-VLA</a> has been <strong>Accepted</strong> by <strong>ICML 2026</strong>.</span>
 </li>
@@ -91,22 +96,7 @@
 
 <li class="news-item">
   <span class="news-date">2026.01</span>
-  <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2510.08480">Video-STAR</a> has been <strong>Accepted</strong> by <strong>ICLR 2026</strong>.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2026.01</span>
-  <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a> has been <strong>Accepted</strong> by <strong>ICLR 2026</strong>.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2025.10</span>
-  <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2506.13215">DVP-MVS++</a> has been <strong>Accepted</strong> by <strong>TCSVT 2025</strong>.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2025.08</span>
-  <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a> was reported by <a href="https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg">AutoDrive Heart (自动驾驶之心)</a>.</span>
+  <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2510.08480">Video-STAR</a> and <a href="https://arxiv.org/abs/2509.01944v1">AutoDrive-R²</a> have been <strong>Accepted</strong> by <strong>ICLR 2026</strong>.</span>
 </li>
 
 <li class="news-item">
@@ -115,18 +105,18 @@
 </li>
 
 <li class="news-item">
+  <span class="news-date">2025.10</span>
+  <span class="news-text">🎉 Our work <a href="https://arxiv.org/abs/2506.13215">DVP-MVS++</a> and <a href="https://ieeexplore.ieee.org/document/11016951">SED-MVS</a> have been <strong>Accepted</strong> by <strong>TCSVT 2025</strong>.</span>
+</li>
+
+<li class="news-item">
   <span class="news-date">2025.05</span>
-  <span class="news-text">🎉 Our work <a href="https://ieeexplore.ieee.org/document/11016951">SED-MVS</a> has been <strong>Accepted</strong> by <strong>TCSVT 2025</strong>.</span>
+  <span class="news-text">🎉 Our work  has been <strong>Accepted</strong> by <strong>TCSVT 2025</strong>.</span>
 </li>
 
 <li class="news-item">
   <span class="news-date">2024.12</span>
-  <span class="news-text">🎉 Our work <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33056">DVP-MVS</a> has been <strong>Accepted</strong> by <strong>AAAI 2025</strong>.</span>
-</li>
-
-<li class="news-item">
-  <span class="news-date">2024.12</span>
-  <span class="news-text">🎉 Our work <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33057">MSP-MVS</a> has been <strong>Accepted</strong> by <strong>AAAI 2025</strong>.</span>
+  <span class="news-text">🎉 Our work <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33056">DVP-MVS</a> and <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33057">MSP-MVS</a> have been <strong>Accepted</strong> by <strong>AAAI 2025</strong>.</span>
 </li>
 
 <li class="news-item">
