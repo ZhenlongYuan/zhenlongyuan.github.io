@@ -158,14 +158,14 @@ LongCat-Next is a native multimodal model (A3B) that unifies text, vision, and a
 <details open>
 <summary>🚀 Agent <span class="badge-count">1</span></summary>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">NIPS 206</div><img src='images/ImagineAgent3.png' alt="ImagineAgent" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">NeurIPS 2026</div><img src='images/ImagineAgent3.png' alt="ImagineAgent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ImagineAgent: What if Agents Could Imagine? Reinforcing OV-HOI Comprehension through Generation](https://openreview.net/forum?id=GHb5Ym3aMu#discussion) <br>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Vision-Language</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Open-Vocabulary HOI</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Agentic Generation</span> \\
-**Yuan Z.**, Qu X., Tang J., Chen R., Sun L., Chen R., Yu H., Qian C., Chu X., Li S., Zhou Y.
+**Yuan Z.**, Wang Y., Zhang D., Cui K., Chen R., Tang J., Sun L., Yu H., Qian C., Chu X., Li S., Zhou Y.
 
 [**<strong>[Paper]</strong>**](https://openreview.net/forum?id=GHb5Ym3aMu#discussion)
 
@@ -220,7 +220,7 @@ AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-La
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">NIPS 2026</div><img src='images/Bridge-AD.png' alt="Bridge-AD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">NeurIPS 2026</div><img src='images/Bridge-AD.png' alt="Bridge-AD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bridge-AD: Bridging Simulation and Reality: Geometry and Decision Alignment for Autonomous Driving](https://openreview.net/forum?id=XQr8N3Wv5o#discussion) <br>
