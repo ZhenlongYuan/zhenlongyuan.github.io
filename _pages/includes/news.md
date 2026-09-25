@@ -110,11 +110,6 @@
 </li>
 
 <li class="news-item">
-  <span class="news-date">2025.05</span>
-  <span class="news-text">🎉 Our work  has been <strong>Accepted</strong> by <strong>TCSVT 2025</strong>.</span>
-</li>
-
-<li class="news-item">
   <span class="news-date">2024.12</span>
   <span class="news-text">🎉 Our work <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33056">DVP-MVS</a> and <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33057">MSP-MVS</a> have been <strong>Accepted</strong> by <strong>AAAI 2025</strong>.</span>
 </li>
