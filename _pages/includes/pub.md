@@ -174,6 +174,22 @@ Video-STAR proposes a novel framework that reinforces zero-shot video understand
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/VideoSTAR.png' alt="Video-STAR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video-STAR: Reinforcing Zero-shot Video Understanding with Tools](https://arxiv.org/abs/2510.08480) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Tool-Using Agent</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Multi-turn RL</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Zero-shot Video</span> \\
+**Yuan Z.**, Qu X., Qian, C., Chen, R., Tang, J., Sun L., Chu X., Zhang D., Wang Y., Cai Y., Li S.
+
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2510.08480) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/Video-STAR)
+
+Video-STAR proposes a novel framework that reinforces zero-shot video understanding through tool-use agents with multi-turn reasoning.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -208,6 +224,64 @@ Reasoning-VLA presents a fast and general VLA reasoning model optimized for real
 </div>
 
 </details>
+
+<!-- ====== Vision-Language Action (VLA) ====== -->
+<details open>
+<summary>🤖 Vision-Language Action (VLA) <span class="badge-count">4</span></summary>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICLR 2026</div><img src='images/AutoDrive-R2.png' alt="AutoDrive-R²" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/abs/2509.01944v1) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Multimodal Reasoning</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Vision-Language-Action</span> \\
+**Featured by** [AutoDrive Heart (自动驾驶之心)](https://mp.weixin.qq.com/s/7y0-CMAkls16iumNK3mlXg) \\
+**Yuan Z.**, Tang, J., Luo, J., Chen, R., Qian, C., Sun, L., Cai Y., Zhang D., Li, S.
+
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2509.01944v1) [**<strong>[Code]</strong>**](https://github.com/AMAP-ML/AutoDrive-R2)
+
+AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-Language-Action models in autonomous driving scenarios.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">NIPS 2026</div><img src='images/Bridge-AD.png' alt="Bridge-AD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridge-AD: Bridging Simulation and Reality: Geometry and Decision Alignment for Autonomous Driving](https://openreview.net/forum?id=XQr8N3Wv5o#discussion) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Sim-to-Real</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Perception-Decision Alignment</span> \\
+Zhang D.\*, **Yuan Z.\***, Li C., Nie H., Chen Y., Zhou R., Zhi P., Zhou Q.
+
+[**<strong>[Paper]</strong>**](https://openreview.net/forum?id=XQr8N3Wv5o#discussion)
+
+Bridge-AD presents a unified and geometry-aware domain adaptation framework optimized for bridging the sim-to-real gap in autonomous driving.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICML 2026</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912) <br>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Fast VLA</span>
+<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Real-time Inference</span> \\
+Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
+
+[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2511.19912)
+
+Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
+
+</div>
+</div>
+
+</details>
+
 
 <!-- ====== Generative Foundation Model ====== -->
 <details open>
