@@ -210,13 +210,13 @@ AutoDrive-R² introduces a reasoning and self-reflection framework for Vision-La
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICML 2026</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912) <br>
+[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://openreview.net/forum?id=c4iSIrb6Iv) <br>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Fast VLA</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Real-time Inference</span> \\
 Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2511.19912)
+[**<strong>[Paper]</strong>**](https://openreview.net/forum?id=c4iSIrb6Iv)
 
 Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
 
@@ -267,13 +267,13 @@ Bridge-AD presents a unified and geometry-aware domain adaptation framework opti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICML 2026</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912) <br>
+[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://openreview.net/forum?id=c4iSIrb6Iv) <br>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Autonomous Driving</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Fast VLA</span>
 <span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#f3e5f5; color:#7b1fa6; border-radius:15px; font-size:12px;">Real-time Inference</span> \\
 Zhang D.\*, **Yuan Z.\***, Chen Z., Liao C., Chen Y., Shen F., Zhou Q., Chua T.
 
-[**<strong>[Paper]</strong>**](https://arxiv.org/abs/2511.19912)
+[**<strong>[Paper]</strong>**](https://openreview.net/forum?id=c4iSIrb6Iv)
 
 Reasoning-VLA presents a fast and general VLA reasoning model optimized for real-time autonomous driving applications.
 
