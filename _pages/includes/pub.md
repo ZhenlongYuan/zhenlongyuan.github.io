@@ -227,18 +227,6 @@ Qu X.\*, **Yuan Z.\***, Tang J., Chen R., Tang D., Yu M., Sun L., Bai Y., Chu X.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='images/Degradation.png' alt="Recovering Degradations" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Recovering Degradations with Generative Model: A Consistency-aware Distillation Network for Infrared and Visible Image Fusion <br>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f5e9; color:#2e7d32; border-radius:15px; font-size:12px;">Generation Model</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#e8f4f8; color:#0077b6; border-radius:15px; font-size:12px;">Image Fusion</span>
-<span style="display:inline-block; padding:2px 10px; margin:2px 4px 2px 0; background-color:#fff3e0; color:#e65100; border-radius:15px; font-size:12px;">Infrared-Visible</span> \\
-Yu H.\*, **Yuan Z.\***, Bai Y., Li J., Liu J., Li S., Sun L., Chu X.
-
-</div>
-</div>
-
 </details>
 
 <!-- ====== 3D Vision ====== -->
