@@ -237,7 +237,7 @@ Bridge-AD presents a unified and geometry-aware domain adaptation framework opti
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICML 2026</div><img src='images/Reasoning-VLA.png' alt="Reasoning-VLA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-conference">ICML 2026</div><img src='images/Reasoning-VLA2.png' alt="Reasoning-VLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://openreview.net/forum?id=c4iSIrb6Iv) <br>
